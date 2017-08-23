@@ -157,6 +157,33 @@ function write_publications(){
     	}
     document.write('</ul>');
 }
+function write_publication(cite){
+    // get data from publications.json
+    var publications = JSON.parse(load_txt('./json/publications.json'));
+    var N = publications.length
+    for (i=0;i<N;i++){
+        var cite_i = publications[i].cite;
+        if (cite_i == cite){
+            var author = publications[i].author;
+            var year = publications[i].year;
+            var title = publications[i].title;
+            var journal = publications[i].journal;
+            var volume = publications[i].volume;
+            var page = publications[i].page;
+            var doi = publications[i].doi;
+            if (doi=='N/A'){
+                var url = "#";
+            }else{
+                var url = " http://dx.doi.org/" + doi;
+            }
+            // var dburl = publications[i].dburl;
+            var pdffile = publications[i].pdffile
+            var bibString = author + ' (' + year +'): <a href="' + url + '" class="">' + title + '</a>. <i>' + journal + '</i>, <b>' + volume + '</b>, ' + page + ', doi: <span  class="text-muted">' + doi + '</span>, <a href="'+pdffile+'" class="text-muted"><span class="glyphicon glyphicon-download-alt"></span></a>';
+            document.write(bibString);
+        }
+
+    }
+}
 
 // display journal feeds
 function get_html_feeds_ul(feeds){

@@ -1,6 +1,18 @@
 [
     {
     "author": "<span style='font-weight:bold'>Yang, W.</span>, G. Magnusdottir",
+    "year": "2017",
+    "title": "Springtime Extreme Moisture Transport into the Arctic and its Impact on Sea Ice Concentration",
+    "journal": "J. Geophys. Res. Atmos.",
+    "volume": "122",
+    "page": " ",
+    "doi": "10.1002/2016JD026324",
+    "dburl":  " ",
+    "pdffile": "./publications/Yang_2017.pdf",
+    "cite": "Yang_2017"
+    },
+    {
+    "author": "<span style='font-weight:bold'>Yang, W.</span>, G. Magnusdottir",
     "year": "2016",
     "title": "Interannual Signature in Daily ITCZ States in the East Pacific in Boreal Spring",
     "journal": "J. Clim.",
@@ -8,7 +20,8 @@
     "page": "8013–8025",
     "doi": "10.1175/JCLI-D-16-0395.1",
     "dburl":  "https://www.dropbox.com/s/0j5bhc0hro7y6ci/yang_2016.pdf?dl=0",
-    "pdffile": "./publications/Yang_2016.pdf"
+    "pdffile": "./publications/Yang_2016.pdf",
+    "cite": "Yang_2016"
     },
     {
     "author": "<span style='font-weight:bold'>Yang, W.</span>, R. Seager, M. A. Cane, B. Lyon",
@@ -19,7 +32,8 @@
     "page": " 9789-9802",
     "doi": "10.1175/JCLI-D-15-0323.1",
     "dburl":  "https://www.dropbox.com/s/vps9l3x1a8jpb06/yang_2015_bias.pdf?dl=0",
-    "pdffile": "./publications/Yang_2015_bias.pdf"
+    "pdffile": "./publications/Yang_2015_bias.pdf",
+    "cite": "Yang_2015b"
     },
     {
     "author": "<span style='font-weight:bold'>Yang, W.</span>, R. Seager, M. A. Cane, B. Lyon",
@@ -30,7 +44,8 @@
     "page": "2385-2404",
     "doi": "10.1175/JCLI-D-14-00484.1",
     "dburl": "https://www.dropbox.com/s/5zopi71mxmszty7/Yang_2015.pdf?dl=0",
-    "pdffile": "./publications/Yang_2015.pdf"
+    "pdffile": "./publications/Yang_2015.pdf",
+    "cite": "Yang_2015a"
     },
     {
     "author": "<span style='font-weight:bold'>Yang, W.</span>, R. Seager, M. A. Cane, B. Lyon ",
@@ -41,7 +56,8 @@
     "page": "7185–7202",
     "doi": "10.1175/JCLI-D-13-00447.1",
     "dburl": "https://www.dropbox.com/s/3gt74noelawz1gb/Yang_2014.pdf?dl=0",
-    "pdffile": "./publications/Yang_2014.pdf"
+    "pdffile": "./publications/Yang_2014.pdf",
+    "cite": "Yang_2014"
     },
     {
     "author": "<span style='font-weight:bold'>Yang, W.</span>, R. Seager, M. A. Cane ",
@@ -52,7 +68,8 @@
     "page": "583–599",
     "doi": "10.1175/JAS-D-12-0140.1",
     "dburl": "https://www.dropbox.com/s/37pum2ohqflr044/Yang_2013.pdf?dl=0",
-    "pdffile": "./publications/Yang_2013.pdf"
+    "pdffile": "./publications/Yang_2013.pdf",
+    "cite": "Yang_2013"
     },
     {
     "author": "Nie, J., Wang, P., <span style='font-weight:bold'>Yang, W.</span> and Tan, B.",
@@ -63,7 +80,8 @@
     "page": "153–159",
     "doi": "10.1002/asl.186",
     "dburl": "https://www.dropbox.com/s/o8mg13h2h9uoqe0/Nie_2008.pdf?dl=0",
-    "pdffile": "./publications/Nie_2008.pdf"
+    "pdffile": "./publications/Nie_2008.pdf",
+    "cite": "Nie_2018"
     },
     {
     "author": "<span style='font-weight:bold'>Yang, W.</span>, J. Nie, P. Lin, and B. Tan",
@@ -74,6 +92,7 @@
     "page": "L05822",
     "doi": "10.1029/2006GL029077",
     "dburl": "https://www.dropbox.com/s/ei7wur0e0e4l9bj/Yang_2007.pdf?dl=0",
-    "pdffile": "./publications/Yang_2007.pdf"
+    "pdffile": "./publications/Yang_2007.pdf",
+    "cite": "Yang_2007"
     }
 ]
