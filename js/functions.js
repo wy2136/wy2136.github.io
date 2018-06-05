@@ -151,8 +151,10 @@ function write_publications(){
         }
         // var dburl = publications[i].dburl;
         var pdffile = publications[i].pdffile
-        var bibString = '<span class="label label-default">' + (N-i).toString() + '</span> ' + author + ' (' + year +'): <a href="' + url + '" class="">' + title + '</a>. <i>' + journal + '</i>, <b>' + volume + '</b>, ' + page + ', doi: <span  class="text-muted">' + doi + '</span>, <a href="'+pdffile+'" class="text-muted"><span class="glyphicon glyphicon-download-alt"></span></a>';
-        document.write(bibString);
+        var bibString = '<span class="label label-default">' + (N-i).toString() + '</span> ' + author + ', ' + year + '<br> <a href="' + url + '" class="">' + title + '</a>.<br> <i>' + journal + '</i>, <b>' + volume + '</b>, ' + page + ', doi: <span  class="text-muted">' + doi + '</span>, <a href="'+pdffile+'" class="text-muted"><span class="glyphicon glyphicon-download-alt"></span></a>';
+		var ambadge = '<br><span data-badge-popover="right" data-badge-type="2" data-doi="' + doi + '" data-hide-no-mentions="true" class="altmetric-embed"></span>';
+        document.write(bibString + ambadge);
+		// document.write(ambadge);
         document.write('</li>');
     	}
     document.write('</ul>');
@@ -179,7 +181,8 @@ function write_publication(cite){
             // var dburl = publications[i].dburl;
             var pdffile = publications[i].pdffile
             var bibString = author + ' (' + year +'): <a href="' + url + '" class="">' + title + '</a>. <i>' + journal + '</i>, <b>' + volume + '</b>, ' + page + ', doi: <span  class="text-muted">' + doi + '</span>, <a href="'+pdffile+'" class="text-muted"><span class="glyphicon glyphicon-download-alt"></span></a>';
-            document.write(bibString);
+            var ambadge = '<br><span data-badge-popover="right" data-badge-type="2" data-doi="' + doi + '" data-hide-no-mentions="true" class="altmetric-embed"></span>';
+			document.write(bibString + ambadge);
         }
 
     }

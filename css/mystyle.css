@@ -6,8 +6,10 @@ html {
 body {
   font-size:15px;
   font-family: "Open Sans", "Helvetica", "sans-serif", "Roboto Slab", "serif";
-  background-color: white;
+  background-color: white ;
 }
+
+/*.header-color{color: #ee842f; background-color: #F4F4F4;}*/
 
 a {
     text-decoration:none;
@@ -22,7 +24,7 @@ a:focus {
 footer {
   min-height:200px;
   font-size:0.9em;
-  background-color:#F4F4F4;
+  background-color:/*#F4F4F4*/ black;
   border-top:1px solid #E7E7E7;
 }
 footer ul li a{
@@ -31,6 +33,9 @@ footer ul li a{
 }
 footer a {
   color: gray;
+}
+footer a:focus {
+	color: #ee842f
 }
 
 .bg-color-nav{
@@ -43,7 +48,7 @@ footer a {
     background-color:#F4F4F4;
 }
 .color-title{
-    color:/*#ffd200*/ /*#1b3d6d*/ chocolate;
+    color:/*#ffd200*/ /*#1b3d6d*/ /*chocolate*/ #ee842f;
 }
 .border-left{
     border-left:1px solid lightgray;
@@ -60,3 +65,4 @@ footer a {
 .border-all{
     border:1px solid lightgray;
 }
+
