@@ -66,3 +66,7 @@ footer a:focus {
     border:1px solid lightgray;
 }
 
+.dropdown-backdrop {
+    z-index: -1 !important;
+}
+
