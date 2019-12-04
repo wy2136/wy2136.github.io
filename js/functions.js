@@ -151,7 +151,7 @@ function write_publications(){
         }
         // var dburl = publications[i].dburl;
         var pdffile = publications[i].pdffile
-        var bibString = '<span class="label label-default">' + (N-i).toString() + '</span> ' + year + ': ' + author + '<br> <a href="' + url + '" class="">' + title + '</a>.<br> <i>' + journal + '</i>, <b>' + volume + '</b>, ' + page + ', doi: <span  class="text-muted">' + doi + '</span>, <a href="'+pdffile+'" class="text-muted"><span class="glyphicon glyphicon-download-alt"></span></a>';
+        var bibString = '<span class="label label-default">' + (N-i).toString().padStart(2, '0') +  '</span> ' + year + ': ' + author + '<br> <a href="' + url + '" class="">' + title + '</a>.<br> <i>' + journal + '</i>, <b>' + volume + '</b>, ' + page + ', doi: <span  class="text-muted">' + doi + '</span>, <a href="'+pdffile+'" class="text-muted"><span class="glyphicon glyphicon-download-alt"></span></a>';
 		var ambadge = '<br><span data-badge-popover="right" data-badge-type="2" data-doi="' + doi + '" data-hide-no-mentions="true" class="altmetric-embed"></span>';
         document.write(bibString + ambadge);
 		// document.write(ambadge);
