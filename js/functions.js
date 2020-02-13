@@ -144,6 +144,14 @@ function write_publications(){
         var volume = publications[i].volume;
         var page = publications[i].page;
         var doi = publications[i].doi;
+        if (i==0){
+            var year_1 = 0;//last item year
+        }else{
+            var year_1 = publications[i-1].year;
+        }
+        if (year!=year_1){
+            document.write('<div style="margin-left:-5ex; margin-bottom:-1.4em">' + year + '</div>');
+        }
         if (doi=='N/A'){
             var url = "#";
         }else{
@@ -151,8 +159,8 @@ function write_publications(){
         }
         // var dburl = publications[i].dburl;
         var pdffile = publications[i].pdffile
-        var bibString = '<span class="label label-default">' + (N-i).toString().padStart(2, '0') +  '</span> ' + year + ': ' + author + '<br> <a href="' + url + '" class="">' + title + '</a>.<br> <i>' + journal + '</i>, <b>' + volume + '</b>, ' + page + ', doi: <span  class="text-muted">' + doi + '</span>, <a href="'+pdffile+'" class="text-muted"><span class="glyphicon glyphicon-download-alt"></span></a>';
-        var dibadge = '<br><span class="__dimensions_badge_embed__" data-doi="' + doi + '" data-hide-zero-citations="true" data-style="small_rectangle"></span>';
+        var bibString = '<span class="label label-default">' + (N-i).toString().padStart(2, '0') +  '</span> ' + author + ' (' + year +')' + '<br> <a href="' + url + '" class="">' + title + '</a>.<br> <i>' + journal + '</i>, <b>' + volume + '</b>, ' + page + ', doi: <span  class="text-muted">' + doi + '</span>, <a href="'+pdffile+'" class="text-muted"><span class="glyphicon glyphicon-download-alt"></span></a>';
+        var dibadge = '<br><span class="__dimensions_badge_embed__" data-doi="' + doi + '" data-hide-zero-citations="true" data-style="small_rectangle"></span>'
 		var ambadge = '<span data-badge-popover="right" data-badge-type="2" data-doi="' + doi + '" data-hide-no-mentions="true" class="altmetric-embed"></span>';
         document.write(bibString + dibadge + ambadge);
 		// document.write(ambadge);
