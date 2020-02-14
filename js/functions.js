@@ -132,11 +132,6 @@ function write_publications(){
     var N = publications.length
     for (i=0;i<N;i++)
     {
-        if (i%2==0){
-         document.write('<li style="margin:0 0 1em; padding:0 5px">');
-        }else{
-            document.write('<li style="margin:0 0 1em; padding:0 5px; background-color:#F4F4F4">');
-        }
         var author = publications[i].author;
         var year = publications[i].year;
         var title = publications[i].title;
@@ -150,7 +145,12 @@ function write_publications(){
             var year_1 = publications[i-1].year;
         }
         if (year!=year_1){
-            document.write('<div style="margin-left:-5ex; margin-bottom:-1.4em">' + year + '</div>');
+            document.write('<h4 class="color-title">' + year + '</h4>');
+        }
+        if (i%2==0){
+         document.write('<li style="margin:0 0 1em; padding:0 5px">');
+        }else{
+            document.write('<li style="margin:0 0 1em; padding:0 5px; background-color:#F4F4F4">');
         }
         if (doi=='N/A'){
             var url = "#";
