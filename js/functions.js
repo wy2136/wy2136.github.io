@@ -125,10 +125,10 @@ function write_copyright(){
     var year = d.getFullYear();
     document.write('&copy; '  + year + ' Wenchang Yang')
 }
-function write_publications(){
+function write_publications(ifile='./json/publications.json'){
     document.write('<ul class="list-unstyled">');
     // get data from publications.json
-    var publications = JSON.parse(load_txt('./json/publications.json'));
+    var publications = JSON.parse(load_txt(ifile));
     var N = publications.length
     for (i=0;i<N;i++)
     {

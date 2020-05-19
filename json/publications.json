@@ -1,5 +1,16 @@
 [
     {
+    "author": "Wagner CE, Hooshyar M, Baker RE, <span style='font-weight:bold'>Yang W</span>, Arinaminpathy N, Vecchi G, Metcalf CJE, Porporato A, Grenfell BT",
+    "year": "2020",
+    "title": "Climatological, virological and sociological drivers of current and projected dengue fever outbreak dynamics in Sri Lanka",
+    "journal": "J. R. Soc. Interface",
+    "volume": "20200075",
+    "page": "15",
+    "doi": "10.1098/rsif.2020.0075",
+    "pdffile": "",
+    "cite": "Wagner_2020"
+    },
+    {
     "author": "Baker, R.E, <span style='font-weight:bold'>W. Yang</span>, G.A. Vecchi, C.J.E. Metcalf, B.T. Grenfell",
     "year": "2020",
     "title": "Susceptible supply limits the role of climate in the early SARS-CoV-2 pandemic",
@@ -7,17 +18,6 @@
     "volume": "xx",
     "page": "xxxx",
     "doi": "10.1126/science.abc2535",
-    "pdffile": "",
-    "cite": "Baker_2020s"
-    },
-    {
-    "author": "Baker, R.E, <span style='font-weight:bold'>W. Yang</span>, G.A. Vecchi, C.J.E. Metcalf, B.T. Grenfell",
-    "year": "2020",
-    "title": "Susceptible supply limits the role of climate in the COVID-19 pandemic",
-    "journal": "MedRxiv",
-    "volume": "2020-04-03",
-    "page": "20052787",
-    "doi": "10.1101/2020.04.03.20052787",
     "pdffile": "",
     "cite": "Baker_2020"
     },
