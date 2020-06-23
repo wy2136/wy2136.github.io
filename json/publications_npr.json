@@ -1,5 +1,16 @@
 [
     {
+    "author": "Baker RE, SW Park, <span style='font-weight:bold'>W Yang</span>, GA Vecchi, CJE Metcalf, BT Grenfell",
+    "year": "2020",
+    "title": "The impact of COVID-19 non-pharmaceutical interventions on the future dynamics of endemic infections",
+    "journal": "MedRxiv",
+    "volume": "2020-06-22",
+    "page": "20137588",
+    "doi": "10.1101/2020.06.22.20137588",
+    "pdffile": "",
+    "cite": "Baker_2020-06-22"
+    },
+    {
     "author": "Baker RE, <span style='font-weight:bold'>W Yang</span>, GA Vecchi, CJE Metcalf, BT Grenfell",
     "year": "2020",
     "title": "Susceptible supply limits the role of climate in the COVID-19 pandemic",
@@ -8,7 +19,7 @@
     "page": "20052787",
     "doi": "10.1101/2020.04.03.20052787",
     "pdffile": "",
-    "cite": "Baker_2020"
+    "cite": "Baker_2020-04-03"
     },
     {
     "author": "<span style='font-weight:bold'>Wenchang Yang</span>",
