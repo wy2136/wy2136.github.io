@@ -120,7 +120,7 @@ plt.show()</pre>
     <div class="panel-heading">
       <a href="http://www.matplotlib.org/basemap/"><img src="http://matplotlib.org/basemap/_images/contour1.png" height="32px"> Basemap
       </a>:
-       The matplotlib basemap toolkit is a library for plotting 2D data on maps in Python. It is similar in functionality to the matlab mapping toolbox, the IDL mapping facilities, GrADS, or the Generic Mapping Tools.
+       The matplotlib basemap toolkit is a library for plotting 2D data on maps in Python. It is similar in functionality to the matlab mapping toolbox, the IDL mapping facilities, GrADS, or the Generic Mapping Tools. (Deprecation Notice: Basemap is deprecated in favor of the <a href="http://scitools.org.uk/cartopy/">Cartopy project</a>.)
     </div> <!-- panel-heading -->
 
     <div class="panel-body">
@@ -137,6 +137,54 @@ map.fillcontinents(color='coral',lake_color='aqua')</pre>
       <p class="text-center">
         <a href="http://matplotlib.org/basemap/users/examples.html" class="btn btn-default">Gallery</a>
         <a href="https://basemaptutorial.readthedocs.org/en/latest/#" class="btn btn-default">Doc</a>
+      </p>
+    </div> <!-- panel-body -->
+  </div> <!-- panel -->
+
+  <div class="panel panel-success">
+    <div class="panel-heading">
+      <a href="https://scitools.org.uk/cartopy/docs/latest/"><img src="https://scitools.org.uk/cartopy/docs/latest/_static/cartopy.png" height="32px"> Cartopy 
+      </a>:
+      Cartopy is a Python package designed for geospatial data processing in order to produce maps and other geospatial data analyses.
+    </div> <!-- panel-heading -->
+
+    <div class="panel-body">
+      <pre>
+import cartopy.crs as ccrs
+import matplotlib.pyplot as plt
+
+ax = plt.axes(projection=ccrs.PlateCarree())
+ax.stock_img()
+
+ny_lon, ny_lat = -75, 43
+delhi_lon, delhi_lat = 77.23, 28.61
+
+plt.plot([ny_lon, delhi_lon], [ny_lat, delhi_lat],
+         color='blue', linewidth=2, marker='o',
+         transform=ccrs.Geodetic(),
+         )
+
+plt.plot([ny_lon, delhi_lon], [ny_lat, delhi_lat],
+         color='gray', linestyle='--',
+         transform=ccrs.PlateCarree(),
+         )
+
+plt.text(ny_lon - 3, ny_lat - 12, 'New York',
+         horizontalalignment='right',
+         transform=ccrs.Geodetic())
+
+plt.text(delhi_lon + 3, delhi_lat - 12, 'Delhi',
+         horizontalalignment='left',
+         transform=ccrs.Geodetic())
+        </pre>
+
+      <p class="text-center">
+        <a href="https://scitools.org.uk/cartopy/docs/latest/matplotlib/intro.html"><img class="img-thumbnail" src="https://scitools.org.uk/cartopy/docs/latest/_images/intro-3.png" width="500px"></a>
+      </p>
+
+      <p class="text-center">
+        <a href="https://scitools.org.uk/cartopy/docs/latest/crs/projections.html" class="btn btn-default">Projection list</a>
+        <a href="https://scitools.org.uk/cartopy/docs/latest/" class="btn btn-default">Doc</a>
       </p>
     </div> <!-- panel-body -->
   </div> <!-- panel -->
@@ -277,6 +325,10 @@ g = sns.jointplot("total_bill", "tip", data=tips, kind="reg",xlim=(0, 60), ylim=
       <a href="http://scikit-learn.org"><img src="http://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" height="32"> Scikit-learn </a>: Machine Learning in Python.
     </div> <!-- panel-heading -->
 
+      <p class="text-center">
+        <a href="https://scikit-learn.org/stable/auto_examples/cluster/plot_cluster_comparison.html"><img class="img-thumbnail" src="https://scikit-learn.org/stable/_images/sphx_glr_plot_cluster_comparison_001.png" style="width: 800px; max-width:100%"></a>
+      </p>
+
     <div class="panel-body">
        <p class="text-center">
          <a href="http://scikit-learn.org/stable/documentation.html"class="btn btn-default">
@@ -289,7 +341,47 @@ g = sns.jointplot("total_bill", "tip", data=tips, kind="reg",xlim=(0, 60), ylim=
     </div> <!-- panel-body -->
   </div> <!-- panel -->
 
+  <div class="panel panel-success">
+    <div class="panel-heading">
+      <a href="https://keras.io"><img src="https://keras.io/img/logo.png" height="32"> Keras </a>: Keras is a deep learning API written in Python, running on top of the machine learning platform <a href="https://github.com/tensorflow/tensorflow">TensorFlow</a>.
+    </div> <!-- panel-heading -->
 
+      <p class="text-center">
+        <a href="https://keras.io/examples/vision/image_classification_from_scratch/"><img class="img-thumbnail" src="https://keras.io/img/examples/vision/image_classification_from_scratch/image_classification_from_scratch_14_0.png" style="width: 500px; max-width:100%"></a>
+      </p>
+
+    <div class="panel-body">
+       <p class="text-center">
+         <a href="https://keras.io/getting_started/"class="btn btn-default">
+           Get Started
+         </a>
+         <a href="https://keras.io/examples/"class="btn btn-default">
+           Examples
+         </a>
+      </p>
+    </div> <!-- panel-body -->
+  </div> <!-- panel -->
+
+  <div class="panel panel-success">
+    <div class="panel-heading">
+      <a href="https://pytorch.org"><img src="https://discuss.pytorch.org/uploads/default/original/2X/3/35226d9fbc661ced1c5d17e374638389178c3176.png" height="32"> PyTorch </a>: PyTorch is an optimized tensor library for deep learning using GPUs and CPUs.
+    </div> <!-- panel-heading -->
+
+      <p class="text-center">
+        <a href="https://pytorch.org/tutorials/intermediate/torchvision_tutorial.html"><img class="img-thumbnail" src="https://pytorch.org/tutorials/_static/img/tv_tutorial/tv_image04.png" style="width: 800px; max-width:100%"></a>
+      </p>
+
+    <div class="panel-body">
+       <p class="text-center">
+         <a href="https://pytorch.org/tutorials/"class="btn btn-default">
+           Tutorials
+         </a>
+         <a href="https://pytorch.org/docs/stable/index.html"class="btn btn-default">
+           Docs
+         </a>
+      </p>
+    </div> <!-- panel-body -->
+  </div> <!-- panel -->
   <h3 class="color-title">
     Install Python Packages
   </h3>
