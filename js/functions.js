@@ -150,7 +150,8 @@ function write_publications(ifile='./json/publications.json'){
         if (i%2==0){
          document.write('<li style="margin:0 0 1em; padding:0 5px">');
         }else{
-            document.write('<li style="margin:0 0 1em; padding:0 5px; background-color:#F4F4F4">');
+            // document.write('<li style="margin:0 0 1em; padding:0 5px; background-color:#F4F4F4">');
+			document.write('<li style="margin:0 0 1em; padding:0 5px">');
         }
         if (doi=='N/A'){
             var url = "#";
