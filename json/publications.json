@@ -1,5 +1,27 @@
 [
     {
+    "author": "Wang C, BJ Soden, <span style='font-weight:bold'>W Yang</span>, GA Vecchi",
+    "year": "2021",
+    "title": "Compensation between cloud feedback and aerosol-cloud interaction in CMIP6 models",
+    "journal": "Geophys. Res. Lett.",
+    "volume": "",
+    "page": "",
+    "doi": "in press",
+    "pdffile": "#",
+    "cite": "Wang2021"
+    },
+    {
+    "author": "Baker RE, <span style='font-weight:bold'>W Yang</span>, GA Vecchi, CJE Metcalf, BT Grenfell",
+    "year": "2021",
+    "title": "Assessing the influence of climate on wintertime SARS-CoV-2 outbreaks",
+    "journal": "Nat. Commun.",
+    "volume": "",
+    "page": "",
+    "doi": "10.1038/s41467-021-20991-1",
+    "pdffile": "#",
+    "cite": "Baker_2021natcomm"
+    },
+    {
     "author": "Zhang B, BJ Soden, GA Vecchi, <span style='font-weight:bold'>W Yang</span>",
     "year": "2020",
     "title": "The role of radiative interactions in tropical cyclone development under reaslistic boundary conditions",
