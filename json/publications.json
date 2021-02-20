@@ -1,5 +1,16 @@
 [
     {
+    "author": "Zhang B, BJ Soden, GA Vecchi, <span style='font-weight:bold'>W Yang</span>",
+    "year": "2021",
+    "title": "The role of radiative interactions in tropical cyclone development under reaslistic boundary conditions",
+    "journal": "J. Clim.",
+    "volume": "34",
+    "page": "2079–2091",
+    "doi": "10.1175/JCLI-D-20-0574.1",
+    "pdffile": "./publications/Zhang2021.pdf",
+    "cite": "Zhang2020"
+    },
+    {
     "author": "Baker RE, <span style='font-weight:bold'>W Yang</span>, GA Vecchi, CJE Metcalf, BT Grenfell",
     "year": "2021",
     "title": "Assessing the influence of climate on wintertime SARS-CoV-2 outbreaks",
@@ -7,7 +18,7 @@
     "volume": "",
     "page": "",
     "doi": "10.1038/s41467-021-20991-1",
-    "pdffile": "#",
+    "pdffile": "./publications/Baker2021.pdf",
     "cite": "Baker2021natcomm"
     },
     {
@@ -20,17 +31,6 @@
     "doi": "10.1029/2020GL091024",
     "pdffile": "#",
     "cite": "Wang2021"
-    },
-    {
-    "author": "Zhang B, BJ Soden, GA Vecchi, <span style='font-weight:bold'>W Yang</span>",
-    "year": "2020",
-    "title": "The role of radiative interactions in tropical cyclone development under reaslistic boundary conditions",
-    "journal": "J. Clim.",
-    "volume": "xx",
-    "page": "1-38",
-    "doi": "10.1175/JCLI-D-20-0574.1",
-    "pdffile": "#",
-    "cite": "Zhang2020"
     },
     {
     "author": "Baker RE, SW Park, <span style='font-weight:bold'>W Yang</span>, GA Vecchi, CJE Metcalf, BT Grenfell",
