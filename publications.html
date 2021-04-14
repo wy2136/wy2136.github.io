@@ -14,6 +14,10 @@
     Publications<br>
     <small> Wenchang Yang</small>
   </h3>
+  <p class="text-center btn-broup">
+    <a class="btn btn-default" href="#peerReviewed" role="button"><small>Peer Reviewed</small></a>
+    <a class="btn btn-default" href="#nonPeerReviewed" role="button"><small>Non Peer Reviewed</small></a>
+  </p>
 </div>  <!-- container-->
 
 <p></p>
@@ -21,10 +25,10 @@
   <div class="row">
     <div class="col-md-1"></div>
     <div class="col-md-10">
-	  <h4 class="text-muted">Peer-Reviewed</h4>
+	  <h4 class="text-muted"><a id="peerReviewed">Peer Reviewed</a></h4>
       <script>write_publications()</script>
 	  <hr>
-	  <h4 class="text-muted">Non Peer-Reviewed</h4>
+	  <h4 class="text-muted"><a id="nonPeerReviewed">Non Peer Reviewed</a></h4>
 	  <script>write_publications('./json/publications_npr.json')</script>
     </div>  <!-- col -->
     <div class="col-md-1"></div>
