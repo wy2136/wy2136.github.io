@@ -1,5 +1,16 @@
 [
     {
+    "author": "Chan D, GA Vecchi, <span style='font-weight:bold'>W Yang</span>, P Huybers",
+    "year": "2021",
+    "title": "Improved simulation of 19th- and 20th-century North Atlantic hurricane frequency after correcting historical sea surface temperatures",
+    "journal": "Sci. Adv.",
+    "volume": "",
+    "page": "1–8",
+    "doi": "10.1126/sciadv.abg6931",
+    "pdffile": "./publications/Chan2021.pdf",
+    "cite": "Chan2021"
+    },
+    {
     "author": "Zhang B, BJ Soden, GA Vecchi, <span style='font-weight:bold'>W Yang</span>",
     "year": "2021",
     "title": "The role of radiative interactions in tropical cyclone development under reaslistic boundary conditions",
@@ -8,7 +19,7 @@
     "page": "2079–2091",
     "doi": "10.1175/JCLI-D-20-0574.1",
     "pdffile": "./publications/Zhang2021.pdf",
-    "cite": "Zhang2020"
+    "cite": "Zhang2021"
     },
     {
     "author": "Baker RE, <span style='font-weight:bold'>W Yang</span>, GA Vecchi, CJE Metcalf, BT Grenfell",
