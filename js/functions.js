@@ -155,6 +155,9 @@ function write_publications(ifile='./json/publications.json'){
         }
         if (doi=='N/A'){
             var url = "#";
+        }else if (doi.startsWith('http')) {
+            var url = doi;
+            var doi = 'N/A';
         }else{
             var url = " http://dx.doi.org/" + doi;
         }
@@ -187,6 +190,9 @@ function write_publication(cite){
             var doi = publications[i].doi;
             if (doi=='N/A'){
                 var url = "#";
+            }else if (doi.startsWith('http')) {
+                var url = doi;
+                var doi = 'N/A';
             }else{
                 var url = " http://dx.doi.org/" + doi;
             }
