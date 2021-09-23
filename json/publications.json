@@ -2,24 +2,35 @@
     {
     "author": "<span style='font-weight:bold'>Yang W</span>, TL Hsieh, GA Vecchi",
     "year": "2021",
-    "title": "Hurricane Annual Cycle Controlled by Both Seeds and Genesis Probability",
+    "title": "Hurricane annual cycle controlled by both seeds and genesis probability",
     "journal": "Proc. Natl. Acad. Sci.",
-    "volume": "",
-    "page": "",
-    "doi": "in press",
-    "pdffile": "",
+    "volume": "118",
+    "page": "1-5",
+    "doi": "10.1073/pnas.2108397118",
+    "pdffile": "./publications/Yang2021",
     "cite": "Yang2021"
     },
     {
     "author": "Liu M, GA Vecchi, BJ Soden, <span style='font-weight:bold'>Yang W</span>, B Zhang",
     "year": "2021",
     "title": "Enhanced hydrological cycle increases ocean heat uptake and moderates transient climate sensitivity",
-    "journal": "Nat. Clim. Change",
+    "journal": "Nat. Clim. Chang.",
     "volume": "",
     "page": "",
-    "doi": "in press",
-    "pdffile": "",
+    "doi": "10.1038/s41558-021-01152-0",
+    "pdffile": "./publications/Liu2021.pdf",
     "cite": "Liu2021"
+    },
+    {
+    "author": "Zhang B, BJ Soden, GA Vecchi, <span style='font-weight:bold'>W Yang</span>",
+    "year": "2021",
+    "title": "Investigating the Causes and Impacts of Convective Aggregation in a High Resolution Atmospheric GCM",
+    "journal": "J. Adv. Model. Earth Syst.",
+    "volume": "13",
+    "page": "e2021MS002675",
+    "doi": "10.1029/2021MS002675",
+    "pdffile": "./publications/Zhang2021b.pdf",
+    "cite": "Zhang2021b"
     },
     {
     "author": "Chan D, GA Vecchi, <span style='font-weight:bold'>W Yang</span>, P Huybers",
