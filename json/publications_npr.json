@@ -1,5 +1,16 @@
 [
     {
+    "author": "Philip, SY, Kew, SF, van Oldenborgh, GJ, Anslow, FS, Seneviratne, SI, Vautard, R, Coumou, D, Ebi, KL, Arrighi, J, Singh, R, van Aalst, M, Pereira Marghidan, C, Wehner, M, <span style='font-weight:bold'>Yang, W</span>, Li, S, Schumacher, DL, Hauser, M, Bonnet, R, Luu, LN, Lehner, F, Gillett, N, Tradowsky, J, Vecchi, GA, Rodell, C, Stull, RB, Howard, R, and Otto, FEL",
+    "year": "2021",
+    "title": "Rapid attribution analysis of the extraordinary heatwave on the Pacific Coast of the US and Canada June 2021",
+    "journal": "Earth System Dynamics",
+    "volume": "preprint", 
+    "page": "34",
+    "doi": "10.5194/esd-2021-90",
+    "pdffile": "https://esd.copernicus.org/preprints/esd-2021-90/esd-2021-90.pdf",
+    "cite": "Philip2021pp"
+    },
+    {
     "author": "Philip SY, SF Kew, GJ van Oldenborgh, <span style='font-weight:bold'>Yang W</span>, GA Vecchi, FS Anslow, S Li, SI Seneviratne, LN Luu, J Arrighi, R Singh, M van Aalst, M Hauser, DL Schumacher, CP Marghidan, KL Ebi, R Bonnet, R Vautard, J Tradowsky, D Coumou, F Lehner, M Wehner, C Rodell, R Stull, R Howard, N Gillett, FEL Otto",
     "year": "2021",
     "title": "Rapid attribution analysis of the extraordinary heatwave on the Pacific Coast of the US and Canada June 2021",
@@ -8,7 +19,7 @@
     "page": "37",
     "doi": "https://www.worldweatherattribution.org/western-north-american-extreme-heat-virtually-impossible-without-human-caused-climate-change/",
     "pdffile": "https://www.worldweatherattribution.org/wp-content/uploads/NW-US-extreme-heat-2021-scientific-report-WWA.pdf",
-    "cite": "Philip2021"
+    "cite": "Philip2021rp"
     },
     {
     "author": "Zhang B, B Soden, GA Vecchi, <span style='font-weight:bold'>Yang W</span>",
