@@ -1,5 +1,16 @@
 [
     {
+    "author": "Hsieh TL, <span style='font-weight:bold'>W Yang</span>, TL Hsieh, GA Vecchi, M Zhao",
+    "year": "2022",
+    "title": "Model spread in the tropical cyclone frequency and seed propensity index across global warming and ENSO-like perturbations",
+    "journal": "Geophys. Res. Lett.",
+    "volume": "xxx",
+    "page": "xxx",
+    "doi": "10.1029/2021GL097157",
+    "pdffile": "./publications/Hsieh2022.pdf",
+    "cite": "Hsieh2022"
+    },
+    {
     "author": "<span style='font-weight:bold'>Yang W</span>, TL Hsieh, GA Vecchi",
     "year": "2021",
     "title": "Hurricane annual cycle controlled by both seeds and genesis probability",
