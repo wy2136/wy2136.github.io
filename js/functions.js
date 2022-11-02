@@ -130,7 +130,19 @@ function write_publications(ifile='./json/publications.json'){
     // get data from publications.json
     var publications = JSON.parse(load_txt(ifile));
     var N = publications.length
-    for (i=0;i<N;i++)
+    //links to each year
+    var years = []
+    for (var i=0;i<N;i++){
+        var year = publications[i].year;
+        if (!years.includes(year)){
+            years.push(year)
+        }
+    }
+    var ifile_base = ifile.split("/").reverse()[0].split(".")[0] //e.g. ./json/publications.json -> publications
+    for (var year of years){
+        document.write('<a class="btn btn-default" href="#' + ifile_base + year + '">' + year + '</a> ')
+    }
+    for (var i=0;i<N;i++)
     {
         var author = publications[i].author;
         var year = publications[i].year;
@@ -145,7 +157,7 @@ function write_publications(ifile='./json/publications.json'){
             var year_1 = publications[i-1].year;
         }
         if (year!=year_1){
-            document.write('<h4 class="color-title">' + year + '</h4>');
+            document.write('<h4 class="color-title" ' + 'id="' + ifile_base + year + '">' + year + '</h4>');
         }
         if (i%2==0){
          document.write('<li style="margin:0 0 1em; padding:0 5px">');
