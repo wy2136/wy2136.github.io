@@ -1,5 +1,16 @@
 [
     {
+    "author": "Bhatia K, A Baker, <span style='font-weight:bold'>W Yang</span>, GA Vecchi, T Knutson, H Murakami, J Kossin, K Hodges, K Dixon, B Bronselaer, C Whitlock",
+    "year": "2022",
+    "title": "A potential explanation for the global increase in tropical cyclone rapid intensification",
+    "journal": "Nat. Commun.",
+    "volume": "13",
+    "page": "11",
+    "doi": "10.1038/s41467-022-34321-6",
+    "pdffile": "./publications/Bhatia2022.pdf",
+    "cite": "Bhatia2022"
+    },
+    {
     "author": "Hsieh TL, <span style='font-weight:bold'>W Yang</span>, TL Hsieh, GA Vecchi, M Zhao",
     "year": "2022",
     "title": "Model spread in the tropical cyclone frequency and seed propensity index across global warming and ENSO-like perturbations",
