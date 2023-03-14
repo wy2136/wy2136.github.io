@@ -1,5 +1,16 @@
 [
     {
+    "author": "Luke J. Harrington et al.",
+    "year": "2023",
+    "title": "The role of climate change in extreme rainfall associated with Cyclone Gabrielle over Aotearoa New Zealand’s East Coast",
+    "journal": "WWA Mar 14, ",
+    "volume": " ", 
+    "page": " ",
+    "doi": "https://www.worldweatherattribution.org/the-role-of-climate-change-in-extreme-rainfall-associated-with-cyclone-gabrielle-over-aotearoa-new-zealands-east-coast/",
+    "pdffile": "https://spiral.imperial.ac.uk/bitstream/10044/1/102624/10/Scientific%20report%20New%20Zealand%20Floods.pdf",
+    "cite": "Harrington2023rpNewZealandFlood"
+    },
+    {
     "author": "Paola A. Arias et al.",
     "year": "2023",
     "title": "Vulnerability and high temperatures exacerbate impacts of ongoing drought in Central South America",
@@ -11,7 +22,7 @@
     "cite": "Arias2023rpCSAdrought"
     },
     {
-    "author": "Rivera JA et al.",
+    "author": "Juan Antonio Rivera et al.",
     "year": "2022",
     "title": "Climate change made record breaking early season heat in Argentina and Paraguay about 60 times more likely",
     "journal": "WWA Dec 21, ",
@@ -22,7 +33,7 @@
     "cite": "Rivera2022rpArgentina"
     },
     {
-    "author": "Brouillet A et al.",
+    "author": "Audrey Brouillet et al.",
     "year": "2022",
     "title": "Food crisis in Central Sahel in 2022 driven by chronic vulnerability with uncertain role of climate change",
     "journal": "WWA Nov 16, ",
@@ -33,7 +44,7 @@
     "cite": "Brouillet2022rpSahel"
     },
     {
-    "author": "Schumacher DL et al.",
+    "author": "Dominik L. Schumacher et al.",
     "year": "2022",
     "title": "High temperatures exacerbated by climate change made 2022 Northern Hemisphere droughts more likely",
     "journal": "WWA Oct 05, ",
@@ -44,7 +55,7 @@
     "cite": "Schumacher2022rpNH"
     },
     {
-    "author": "Otto FEL et al.",
+    "author": "Friederike E. L. Otto et al.",
     "year": "2022",
     "title": "Climate change likely increased extreme monsoon rainfall, flooding highly vulnerable communities in Pakistan",
     "journal": "WWA Sep 14, ",
@@ -55,7 +66,7 @@
     "cite": "Otto2022rpPakistan"
     },
     {
-    "author": "Zachariah M et al.",
+    "author": "Mariam Zachariah et al.",
     "year": "2022",
     "title": "Without human-caused climate change temperatures of 40°C in the UK would have been extremely unlikely",
     "journal": "WWA Jul 28, ",
@@ -66,7 +77,7 @@
     "cite": "Zachariah2022rpUK"
     },
     {
-    "author": "Zachariah M et al.",
+    "author": "Mariam Zachariah et al.",
     "year": "2022",
     "title": "Climate change increased heavy rainfall, hitting vulnerable communities in Eastern Northeast Brazil",
     "journal": "WWA Jul 05, ",
@@ -88,7 +99,7 @@
     "cite": "Bhatia2022pp"
     },
     {
-    "author": "Zachariah M et al.",
+    "author": "Mariam Zachariah et al.",
     "year": "2022",
     "title": "Climate Change made devastating early heat in India and Pakistan 30 times more likely",
     "journal": "WWA May 23, ",
@@ -99,7 +110,7 @@
     "cite": "Zachariah2022rp"
     },
     {
-    "author": "Pinto I et al.",
+    "author": "Izidine Pinto et al.",
     "year": "2022",
     "title": "Climate change exacerbated rainfall causing devastating flooding in Eastern South Africa",
     "journal": "WWA May 13, ",
@@ -110,7 +121,7 @@
     "cite": "Pinto2022rp"
     },
     {
-    "author": "Harrington LJ, P Wolski, I Pinto, AM Ramarosandratana, R Barimalala, R Vautard, S Philip, S Kew, R Singh, D Heinrich, J Arrighi, E Raju, L Thalheimer, T Razanakoto, M van Aalst, S Li, R Bonnet, <span style='font-weight:bold'>W Yang</span>, FEL Otto, GJ van Oldenborgh",
+    "author": "Luke J. Harrington, P Wolski, I Pinto, AM Ramarosandratana, R Barimalala, R Vautard, S Philip, S Kew, R Singh, D Heinrich, J Arrighi, E Raju, L Thalheimer, T Razanakoto, M van Aalst, S Li, R Bonnet, <span style='font-weight:bold'>W Yang</span>, FEL Otto, GJ van Oldenborgh",
     "year": "2021",
     "title": "Attribution of severe low rainfall in southern Madagascar, 2019-21",
     "journal": "WWA Dec 01, ",
@@ -132,7 +143,7 @@
     "cite": "Philip2021pp"
     },
     {
-    "author": "Philip SY, SF Kew, GJ van Oldenborgh, <span style='font-weight:bold'>Yang W</span>, GA Vecchi, FS Anslow, S Li, SI Seneviratne, LN Luu, J Arrighi, R Singh, M van Aalst, M Hauser, DL Schumacher, CP Marghidan, KL Ebi, R Bonnet, R Vautard, J Tradowsky, D Coumou, F Lehner, M Wehner, C Rodell, R Stull, R Howard, N Gillett, FEL Otto",
+    "author": "Sjoukje Y. Philip, SF Kew, GJ van Oldenborgh, <span style='font-weight:bold'>Yang W</span>, GA Vecchi, FS Anslow, S Li, SI Seneviratne, LN Luu, J Arrighi, R Singh, M van Aalst, M Hauser, DL Schumacher, CP Marghidan, KL Ebi, R Bonnet, R Vautard, J Tradowsky, D Coumou, F Lehner, M Wehner, C Rodell, R Stull, R Howard, N Gillett, FEL Otto",
     "year": "2021",
     "title": "Rapid attribution analysis of the extraordinary heatwave on the Pacific Coast of the US and Canada June 2021",
     "journal": "WWA Jul 07, ",
