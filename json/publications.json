@@ -151,7 +151,7 @@
     "page": "7",
     "doi": "10.1073/pnas.2013182117",
     "pdffile": "./publications/Baker_2020pnas.pdf",
-    "cite": "Baker_2020pnas"
+    "cite": "Baker2020pnas"
     },
     {
     "author": "Hsieh TL, GA Vecchi, <span style='font-weight:bold'>W Yang</span>, IM Held, ST Garner",
@@ -184,7 +184,7 @@
     "page": "15",
     "doi": "10.1098/rsif.2020.0075",
     "pdffile": "./publications/Wagner_2020.pdf",
-    "cite": "Wagner_2020"
+    "cite": "Wagner2020"
     },
     {
     "author": "Baker RE, <span style='font-weight:bold'>W Yang</span>, GA Vecchi, CJE Metcalf, BT Grenfell",
@@ -195,7 +195,7 @@
     "page": "315-319",
     "doi": "10.1126/science.abc2535",
     "pdffile": "./publications/Baker_2020.pdf",
-    "cite": "Baker_2020"
+    "cite": "Baker2020"
     },
     {
     "author": "Baker RE, AS Mahmud, CE Wagner, <span style='font-weight:bold'>W Yang</span>, VE Pitzer, C Viboud, GA Vecchi, CJE Metcalf, BT Grenfell",
@@ -206,7 +206,7 @@
     "page": "5512",
     "doi": "10.1038/s41467-019-13562-y",
     "pdffile": "./publications/Baker_2019.pdf",
-    "cite": "Baker_2019"
+    "cite": "Baker2019"
     },
     {
     "author": "<span style='font-weight:bold'>Yang W</span>, GA Vecchi, S Fueglistaler, LW Horowitz, D Luet, Á Muñoz, D Paynter, S Underwood",
