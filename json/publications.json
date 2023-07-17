@@ -8,6 +8,7 @@
     "page": "1-24",
     "doi": "10.1175/JCLI-D-22-0449.1",
     "pdffile": "./publications/Hsieh2023.pdf",
+    "imageURL": "https://journals.ametsoc.org/coverimage?doc=%2Fjournals%2Fclim%2F36%2F16%2Fclim.36.issue-16.xml&width=200&type=webp",
     "cite": "Hsieh2023"
     },
     {
@@ -19,6 +20,7 @@
     "page": "28",
     "doi": "10.1088/2752-5295/acbfd5",
     "pdffile": "https://iopscience.iop.org/article/10.1088/2752-5295/acbfd5/pdf",
+    "imageURL": "https://cms.iopscience.org/7bd8425b-da6e-11eb-9303-9387556ca124/journal_cover?guest=true",
     "cite": "Otto2023"
     },
     {
@@ -30,6 +32,7 @@
     "page": "1689-1713",
     "doi": "10.5194/esd-13-1689-2022",
     "pdffile": "https://esd.copernicus.org/articles/13/1689/2022/esd-13-1689-2022.pdf",
+    "imageURL": "https://www.earth-system-dynamics.net/graphic_esd_cover_homepage.jpg",
     "cite": "Philip2022"
     },
     {
@@ -41,6 +44,7 @@
     "page": "32",
     "doi": "10.1088/2752-5295/aca695",
     "pdffile": "https://iopscience.iop.org/article/10.1088/2752-5295/aca695/pdf",
+    "imageURL": "https://cms.iopscience.org/7bd8425b-da6e-11eb-9303-9387556ca124/journal_cover?guest=true",
     "cite": "Harrington2022"
     },
     {
@@ -52,6 +56,7 @@
     "page": "11",
     "doi": "10.1038/s41467-022-34321-6",
     "pdffile": "./publications/Bhatia2022.pdf",
+    "imageURL": "https://upload.wikimedia.org/wikipedia/en/b/bf/Nature_Communications_-_Journal_Cover.jpg",
     "cite": "Bhatia2022"
     },
     {
@@ -63,6 +68,7 @@
     "page": "10",
     "doi": "10.1029/2021GL097157",
     "pdffile": "./publications/Hsieh2022.pdf",
+    "imageURL": "https://agupubs.onlinelibrary.wiley.com/cms/asset/e66d4d84-f588-405d-925c-adbaadada4b9/grl.v49.7.cover.jpg",
     "cite": "Hsieh2022"
     },
     {
@@ -74,6 +80,7 @@
     "page": "1-5",
     "doi": "10.1073/pnas.2108397118",
     "pdffile": "./publications/Yang2021pnas.pdf",
+    "imageURL": "https://www.pnas.org/cms/asset/a0f34ded-51d2-4dce-a4f0-3dc0726c50ed/pnas.2021.118.issue-41.largecover.png",
     "cite": "Yang2021"
     },
     {
@@ -85,6 +92,7 @@
     "page": "",
     "doi": "10.1038/s41558-021-01152-0",
     "pdffile": "./publications/Liu2021.pdf",
+    "imageURL": "https://media.springernature.com/w440/springer-static/cover-hires/journal/41558/11/10",
     "cite": "Liu2021"
     },
     {
@@ -96,6 +104,7 @@
     "page": "e2021MS002675",
     "doi": "10.1029/2021MS002675",
     "pdffile": "./publications/Zhang2021b.pdf",
+    "imageURL": "https://agupubs.onlinelibrary.wiley.com/cms/asset/8c212af1-e145-4aa8-a9b9-b488db3e20e5/jame.v13.11.cover.jpg",
     "cite": "Zhang2021b"
     },
     {
@@ -107,6 +116,7 @@
     "page": "1–8",
     "doi": "10.1126/sciadv.abg6931",
     "pdffile": "./publications/Chan2021.pdf",
+    "imageURL": "https://www.science.org/cms/asset/2a7874f6-279b-4c29-8231-3305d447c5ca/sciadv.2021.7.issue-26.largecover.jpg",
     "cite": "Chan2021"
     },
     {
@@ -118,6 +128,7 @@
     "page": "2079–2091",
     "doi": "10.1175/JCLI-D-20-0574.1",
     "pdffile": "./publications/Zhang2021.pdf",
+    "imageURL": "https://journals.ametsoc.org/coverimage?doc=%2Fjournals%2Fclim%2F34%2F6%2Fclim.34.issue-6.xml&width=200&type=webp",
     "cite": "Zhang2021"
     },
     {
@@ -129,6 +140,7 @@
     "page": "",
     "doi": "10.1038/s41467-021-20991-1",
     "pdffile": "./publications/Baker2021.pdf",
+    "imageURL": "https://upload.wikimedia.org/wikipedia/en/b/bf/Nature_Communications_-_Journal_Cover.jpg",
     "cite": "Baker2021natcomm"
     },
     {
@@ -140,6 +152,7 @@
     "page": "",
     "doi": "10.1029/2020GL091024",
     "pdffile": "./publications/Wang2021.pdf",
+    "imageURL": "https://agupubs.onlinelibrary.wiley.com/cms/asset/0390114f-f56d-4522-afb4-37a23006c5ee/grl.v48.4.cover.jpg",
     "cite": "Wang2021"
     },
     {
@@ -151,6 +164,7 @@
     "page": "7",
     "doi": "10.1073/pnas.2013182117",
     "pdffile": "./publications/Baker_2020pnas.pdf",
+    "imageURL": "https://www.pnas.org/cms/asset/6cbb9326-2d61-4ab7-9f9c-8576a39d48d3/pnas.2020.117.issue-48.largecover.png",
     "cite": "Baker2020pnas"
     },
     {
@@ -162,6 +176,7 @@
     "page": "3177-3196",
     "doi": "10.1007/s00382-020-05446-5",
     "pdffile": "./publications/Hsieh_2020.pdf",
+    "imageURL": "https://media.springernature.com/w138/springer-static/cover/journal/382/55/11.jpg",
     "cite": "Hsieh2020"
     },
     {
@@ -173,6 +188,7 @@
     "page": "26",
     "doi": "10.1007/s00382-020-05347-7",
     "pdffile": "./publications/Jacobson_2020.pdf",
+    "imageURL": "https://media.springernature.com/w138/springer-static/cover/journal/382/55/7.jpg",
     "cite": "Jacobson2020"
     },
     {
@@ -184,6 +200,7 @@
     "page": "15",
     "doi": "10.1098/rsif.2020.0075",
     "pdffile": "./publications/Wagner_2020.pdf",
+    "imageURL": "https://royalsocietypublishing.org/cms/asset/04aeac7b-d875-41e3-a77f-61a12d91bfff/rsif.2020.17.issue-167.cover.gif",
     "cite": "Wagner2020"
     },
     {
@@ -195,6 +212,7 @@
     "page": "315-319",
     "doi": "10.1126/science.abc2535",
     "pdffile": "./publications/Baker_2020.pdf",
+    "imageURL": "https://www.science.org/cms/asset/732faea6-6b7b-450a-9f94-f98d095739b8/science.2020.369.issue-6501.largecover.jpg",
     "cite": "Baker2020"
     },
     {
@@ -206,6 +224,7 @@
     "page": "5512",
     "doi": "10.1038/s41467-019-13562-y",
     "pdffile": "./publications/Baker_2019.pdf",
+    "imageURL": "https://upload.wikimedia.org/wikipedia/en/b/bf/Nature_Communications_-_Journal_Cover.jpg",
     "cite": "Baker2019"
     },
     {
@@ -217,6 +236,7 @@
     "page": "1-10",
     "doi": "10.1029/2019GL082367",
     "pdffile": "./publications/Yang_2019.pdf",
+    "imageURL": "https://agupubs.onlinelibrary.wiley.com/cms/asset/45dd0270-6df6-4c31-b40e-9b6f46bc16fd/grl.v46.13.cover.jpg",
     "cite": "Yang2019"
     },
     {
@@ -228,6 +248,7 @@
     "page": "9070",
     "doi": "10.1038/s41598-018-27149-y",
     "pdffile": "./publications/Yang_2018.pdf",
+    "imageURL": "https://countryofpapers.com/images/journals/200px/scientific-reports.jpg",
     "cite": "Yang2018"
     },
     {
@@ -239,6 +260,7 @@
     "page": "5316–5329",
     "doi": "10.1002/2016JD026324",
     "pdffile": "./publications/Yang_2017.pdf",
+    "imageURL": "https://agupubs.onlinelibrary.wiley.com/cms/asset/0adae133-7d17-4526-9eef-14b69ebe733b/jgrd.v122.10.cover.jpg",
     "cite": "Yang2017"
     },
     {
@@ -250,6 +272,7 @@
     "page": "8013–8025",
     "doi": "10.1175/JCLI-D-16-0395.1",
     "pdffile": "./publications/Yang_2016.pdf",
+    "imageURL": "https://journals.ametsoc.org/coverimage?doc=%2Fjournals%2Fclim%2F29%2F22%2Fclim.29.issue-22.xml&width=200&type=webp",
     "cite": "Yang2016"
     },
     {
@@ -261,6 +284,7 @@
     "page": " 9789-9802",
     "doi": "10.1175/JCLI-D-15-0323.1",
     "pdffile": "./publications/Yang_2015_bias.pdf",
+    "imageURL": "https://journals.ametsoc.org/coverimage?doc=%2Fjournals%2Fclim%2F28%2F24%2Fclim.28.issue-24.xml&width=200&type=webp",
     "cite": "Yang2015b"
     },
     {
@@ -272,6 +296,7 @@
     "page": "2385-2404",
     "doi": "10.1175/JCLI-D-14-00484.1",
     "pdffile": "./publications/Yang_2015.pdf",
+    "imageURL": "https://journals.ametsoc.org/coverimage?doc=%2Fjournals%2Fclim%2F28%2F6%2Fclim.28.issue-6.xml&width=200&type=webp",
     "cite": "Yang2015a"
     },
     {
@@ -283,6 +308,7 @@
     "page": "7185–7202",
     "doi": "10.1175/JCLI-D-13-00447.1",
     "pdffile": "./publications/Yang_2014.pdf",
+    "imageURL": "https://journals.ametsoc.org/coverimage?doc=%2Fjournals%2Fclim%2F27%2F19%2Fclim.27.issue-19.xml&width=200&type=webp",
     "cite": "Yang2014"
     },
     {
@@ -294,6 +320,7 @@
     "page": "583–599",
     "doi": "10.1175/JAS-D-12-0140.1",
     "pdffile": "./publications/Yang_2013.pdf",
+    "imageURL": "https://journals.ametsoc.org/coverimage?doc=%2Fjournals%2Fatsc%2F70%2F2%2Fatsc.70.issue-2.xml&width=200&type=webp",
     "cite": "Yang2013"
     },
     {
@@ -305,6 +332,7 @@
     "page": "153–159",
     "doi": "10.1002/asl.186",
     "pdffile": "./publications/Nie_2008.pdf",
+    "imageURL": "https://rmets.onlinelibrary.wiley.com/cms/asset/5261ccc4-5476-4f26-847a-37404b99d536/asl2.v24.7.cover.jpg",
     "cite": "Nie_2018"
     },
     {
@@ -316,6 +344,7 @@
     "page": "L05822",
     "doi": "10.1029/2006GL029077",
     "pdffile": "./publications/Yang_2007.pdf",
+    "imageURL": "https://agupubs.onlinelibrary.wiley.com/cms/asset/290a50c1-744e-4d04-9add-4d77ce2d983c/grl.v50.14.cover.jpg",
     "cite": "Yang_2007"
     }
 ]
