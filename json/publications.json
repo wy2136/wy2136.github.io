@@ -1,5 +1,17 @@
 [
     {
+    "author": "Paola A. Arias et al. Friederike E L Otto",
+    "year": "2024",
+    "title": "Interplay between climate change and climate variability: the 2022 drought in Central South America",
+    "journal": "Climatic Change",
+    "volume": "177",
+    "page": "22",
+    "doi": "10.1007/s10584-023-03664-4",
+    "pdffile": "https://doi.org/10.1007/s10584-023-03664-4",
+    "imageURL": "https://media.springernature.com/w120/springer-static/cover/journal/10584.jpg",
+    "cite": "Arias2024"
+    },
+    {
     "author": "Kortum G, GA Vecchi, TL Hsih, <span style='font-weight:bold'>W Yang</span>",
     "year": "2023",
     "title": "Influence of weather and climate on multidecadal trends in Atlantic hurricane genesis and tracks",
@@ -27,7 +39,7 @@
     "author": "Juan Antonio Rivera et al. Friederike E L Otto",
     "year": "2023",
     "title": "2022 early-summer heatwave in Southern South America: 60 times more likely due to climate change",
-    "journal": "Climate Change",
+    "journal": "Climatic Change",
     "volume": "102",
     "page": "23",
     "doi": "10.1007/s10584-023-03576-3",
