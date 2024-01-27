@@ -1,5 +1,17 @@
 [
     {
+    "author": "<span style='font-weight:bold'>Yang W</span>, E Wallace, GA Vecchii, JP Donnelly, J Emile-Geay, GJ Hakim, LW Horowitz, RM Sullivan, R Tardif, PJ van Hengstum, TS Winkler",
+    "year": "2024",
+    "title": "Last millennium hurricane activity linked to endogenous climate variability",
+    "journal": "Nat. Commun.",
+    "volume": "15",
+    "page": "1-10",
+    "doi": "10.1038/s41467-024-45112-6",
+    "pdffile": "./publications/Yang2024natcomm.pdf",
+    "imageURL": "https://upload.wikimedia.org/wikipedia/en/b/bf/Nature_Communications_-_Journal_Cover.jpg",
+    "cite": "Yang2024natcomm"
+    },
+    {
     "author": "Paola A. Arias et al. Friederike E L Otto",
     "year": "2024",
     "title": "Interplay between climate change and climate variability: the 2022 drought in Central South America",
@@ -267,7 +279,7 @@
     "author": "Baker RE, AS Mahmud, CE Wagner, <span style='font-weight:bold'>W Yang</span>, VE Pitzer, C Viboud, GA Vecchi, CJE Metcalf, BT Grenfell",
     "year": "2019",
     "title": "Epidemic dynamics of respiratory syncytial virus in current and future climates",
-    "journal": "Nature Communications",
+    "journal": "Nat. Commun.",
     "volume": "10",
     "page": "5512",
     "doi": "10.1038/s41467-019-13562-y",
@@ -392,7 +404,7 @@
     "page": "L05822",
     "doi": "10.1029/2006GL029077",
     "pdffile": "./publications/Yang_2007.pdf",
-    "imageURL": "https://agupubs.onlinelibrary.wiley.com/cms/asset/290a50c1-744e-4d04-9add-4d77ce2d983c/grl.v50.14.cover.jpg",
+    "imageURL": "https://agupubs.onlinelibrary.wiley.com/cms/asset/c51db4d5-d1c9-4651-aa28-e77113fa9dfd/grl.v51.2.cover.jpg",
     "cite": "Yang_2007"
     }
 ]
