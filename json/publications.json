@@ -8,7 +8,7 @@
     "page": "1-10",
     "doi": "10.1038/s41467-024-45112-6",
     "pdffile": "./publications/Yang2024natcomm.pdf",
-    "imageURL": "https://upload.wikimedia.org/wikipedia/en/b/bf/Nature_Communications_-_Journal_Cover.jpg",
+    "imageURL": "http://covers.springernature.com/journals/jpg_width_153_pixels/41467.jpg",
     "cite": "Yang2024natcomm"
     },
     {
@@ -116,7 +116,7 @@
     "page": "11",
     "doi": "10.1038/s41467-022-34321-6",
     "pdffile": "./publications/Bhatia2022.pdf",
-    "imageURL": "https://upload.wikimedia.org/wikipedia/en/b/bf/Nature_Communications_-_Journal_Cover.jpg",
+    "imageURL": "http://covers.springernature.com/journals/jpg_width_153_pixels/41467.jpg",
     "cite": "Bhatia2022"
     },
     {
@@ -200,7 +200,7 @@
     "page": "",
     "doi": "10.1038/s41467-021-20991-1",
     "pdffile": "./publications/Baker2021.pdf",
-    "imageURL": "https://upload.wikimedia.org/wikipedia/en/b/bf/Nature_Communications_-_Journal_Cover.jpg",
+    "imageURL": "http://covers.springernature.com/journals/jpg_width_153_pixels/41467.jpg",
     "cite": "Baker2021natcomm"
     },
     {
@@ -284,7 +284,7 @@
     "page": "5512",
     "doi": "10.1038/s41467-019-13562-y",
     "pdffile": "./publications/Baker_2019.pdf",
-    "imageURL": "https://upload.wikimedia.org/wikipedia/en/b/bf/Nature_Communications_-_Journal_Cover.jpg",
+    "imageURL": "http://covers.springernature.com/journals/jpg_width_153_pixels/41467.jpg",
     "cite": "Baker2019"
     },
     {
