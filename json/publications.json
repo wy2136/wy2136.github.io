@@ -1,5 +1,17 @@
 [
     {
+    "author": "Kortum G, GA Vecchi, TL Hsih, <span style='font-weight:bold'>W Yang</span>",
+    "year": "2024",
+    "title": "Influence of weather and climate on multidecadal trends in Atlantic hurricane genesis and tracks",
+    "journal": "J. Clim.",
+    "volume": "37",
+    "page": "1501–1522",
+    "doi": "10.1175/JCLI-D-23-0088.1",
+    "pdffile": "http://dx.doi.org/10.1175/JCLI-D-23-0088.1",
+    "imageURL": "https://journals.ametsoc.org/coverimage?doc=%2Fjournals%2Fclim%2Faop%2Fissue.xml&width=200&type=webp",
+    "cite": "Kortum2024"
+    },
+    {
     "author": "<span style='font-weight:bold'>Yang W</span>, E Wallace, GA Vecchii, JP Donnelly, J Emile-Geay, GJ Hakim, LW Horowitz, RM Sullivan, R Tardif, PJ van Hengstum, TS Winkler",
     "year": "2024",
     "title": "Last millennium hurricane activity linked to endogenous climate variability",
@@ -9,7 +21,7 @@
     "doi": "10.1038/s41467-024-45112-6",
     "pdffile": "./publications/Yang2024natcomm.pdf",
     "imageURL": "http://covers.springernature.com/journals/jpg_width_153_pixels/41467.jpg",
-    "cite": "Yang2024natcomm"
+    "cite": "Yang2024"
     },
     {
     "author": "Paola A. Arias et al. Friederike E L Otto",
@@ -22,18 +34,6 @@
     "pdffile": "https://doi.org/10.1007/s10584-023-03664-4",
     "imageURL": "https://media.springernature.com/w120/springer-static/cover/journal/10584.jpg",
     "cite": "Arias2024"
-    },
-    {
-    "author": "Kortum G, GA Vecchi, TL Hsih, <span style='font-weight:bold'>W Yang</span>",
-    "year": "2023",
-    "title": "Influence of weather and climate on multidecadal trends in Atlantic hurricane genesis and tracks",
-    "journal": "J. Clim.",
-    "volume": " ",
-    "page": "1-50",
-    "doi": "10.1175/JCLI-D-23-0088.1",
-    "pdffile": "./publications/Kortum2023.pdf",
-    "imageURL": "https://journals.ametsoc.org/coverimage?doc=%2Fjournals%2Fclim%2Faop%2Fissue.xml&width=200&type=webp",
-    "cite": "Kortum2023"
     },
     {
     "author": "Mariam Zachariah et al.",
