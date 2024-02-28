@@ -92,6 +92,10 @@ function write_navbar(self_depth,active_item){
         s1 = convert2depth('<li><a href="./publications.html">',self_depth);
         s2 = convert2depth('<li class="active"><a href="./publications.html">',self_depth);
         s = s.replace(s1,s2)
+    }else if (active_item=='gallery'){
+        s1 = convert2depth('<li><a href="./gallery.html">',self_depth);
+        s2 = convert2depth('<li class="active"><a href="./gallery.html">',self_depth);
+        s = s.replace(s1,s2)
     }else if (active_item=='reading'){
         s1 = convert2depth('<li><a href="./reading.html">',self_depth);
         s2 = convert2depth('<li class="active"><a href="./reading.html">',self_depth);
