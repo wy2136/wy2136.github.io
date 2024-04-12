@@ -57,6 +57,7 @@ def main(html_file='index.html', darkmode=True, rootdir=None):
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://wy2136.github.io/external/font-awesome-4.7.0/css/font-awesome.min.css">
     <title>numerical experiments on tiger, {name}</title>
     <style>body {{word-break: break-all}}</style>
   </head>
@@ -69,7 +70,7 @@ def main(html_file='index.html', darkmode=True, rootdir=None):
 <div class="container my-4">
 <div>
 <a href="../" class="btn btn-outline-secondary">home</a>
-<button type="button" class="btn btn-outline-secondary" id="btnSwitch">dark/light switch</button>
+<i class="fa fa-adjust fa-lg" id="btnSwitch"></i>
 </div> 
 <div class="card card-body border-0">
 <h2>numerical experiments on tiger by model</h2>
@@ -106,6 +107,7 @@ def main(html_file='index.html', darkmode=True, rootdir=None):
             #f.write(f'<a class=" list-group-item list-group-item-text" href="{ifile}"><span class="badge bg-secondary">{ii:02d} of {n_files_workdir:02d}</span> {model} <span class="text-muted">by {modeler}</span></a>\n')
             f.write(f'<a class=" list-group-item list-group-item-text" href="{ifile}"><span class="badge bg-secondary">{ii:02d}</span> <span class="text-warning">{model}</span> <span class="badge bg-secondary mx-2">{modeler}</span> <span class="badge bg-secondary rounded-circle">{n_exps}</span></a></a>\n')
         f.write('</div> <!-- list-group -->\n')
+        f.write('\n')
             
             
         #bottom

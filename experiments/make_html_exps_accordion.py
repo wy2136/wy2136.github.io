@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 # Wenchang Yang (wenchang@princeton.edu)
 # Tue Oct 15 16:29:10 EDT 2019
+#wy2024-03-20: use font awesome for dark/light switch
 from datetime import datetime
 import os.path, sys, os
 import glob
@@ -69,6 +70,7 @@ def main(html_file=None, model='FLOR', darkmode=True, modeler='wenchang'):
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://wy2136.github.io/external/font-awesome-4.7.0/css/font-awesome.min.css">
     <title>{model} experiments, {name}</title>
     <style>body {{word-break: break-all}}</style>
   </head>
@@ -110,12 +112,13 @@ def main(html_file=None, model='FLOR', darkmode=True, modeler='wenchang'):
 <div class="container my-4">
 <div>
 <a href="index.html" class="btn btn-outline-secondary">models</a>
-<button class="btn btn-outline-secondary" id="btnSwitch">dark/light switch</button>
+<i class="fa fa-adjust fa-lg" id="btnSwitch"></i>
 </div>
 <div class="card card-body border-0">
 <h2>{model} experiments by {modeler}</h2>
 <div class="text-muted">
   <li>Wenchang Yang</li>
+
   <li>Princeton University</li>
   <li>{date}</li>
 <h5><span class="mt-3 mb-0 badge bg-info text-dark"><span><a href="{model_link}" class="text-dark">{model}</a></span></h5>
@@ -231,6 +234,7 @@ def main(html_file=None, model='FLOR', darkmode=True, modeler='wenchang'):
 </div> <!-- accordion-item -->
 '''
             f.write(s) #item ends
+            f.write('\n')
         f.write('</div> <!-- accordion -->\n')
             
         #bottom

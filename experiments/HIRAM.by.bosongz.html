@@ -4,6 +4,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://wy2136.github.io/external/font-awesome-4.7.0/css/font-awesome.min.css">
     <title>HIRAM experiments, Wenchang Yang, 杨文昌</title>
     <style>body {word-break: break-all}</style>
   </head>
@@ -12,14 +13,15 @@
 <div class="container my-4">
 <div>
 <a href="index.html" class="btn btn-outline-secondary">models</a>
-<button class="btn btn-outline-secondary" id="btnSwitch">dark/light switch</button>
+<i class="fa fa-adjust fa-lg" id="btnSwitch"></i>
 </div>
 <div class="card card-body border-0">
 <h2>HIRAM experiments by bosongz</h2>
 <div class="text-muted">
   <li>Wenchang Yang</li>
+
   <li>Princeton University</li>
-  <li>2024-01-01</li>
+  <li>2024-04-10</li>
 <h5><span class="mt-3 mb-0 badge bg-info text-dark"><span><a href="https://www.gfdl.noaa.gov/hiram-quickstart/" class="text-dark">HIRAM</a></span></h5>
   <li>AGCM (atmosphere-only)</li>
   <li>~50km atmos/land</li>
@@ -37,12 +39,13 @@
 <div id="climaContent" class="accordion-collapse collapse ">
 <div class="card card-body border-0 text-muted font-monospace">
   <li>output dir: /tigress/wenchang/MODEL_OUT/bosongz/HIRAM/clima</li>
-  <li>real output dir: /projects/GEOCLIM/bosong/MODEL_OUT/HIRAM/clima</li>
+  <li>real output dir: /projects2/GEOCLIM/bosong/MODEL_OUT/HIRAM/clima</li>
   <li>50 years: 0101-0150</li>
 <!-- item ends -->
 </div> <!-- card -->
 </div> <!--accordion-collapse -->
 </div> <!-- accordion-item -->
+
 <div class="accordion-item">
 <h2 class="accordion-header">
  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#clima_2xCO2Content">
@@ -52,12 +55,13 @@
 <div id="clima_2xCO2Content" class="accordion-collapse collapse ">
 <div class="card card-body border-0 text-muted font-monospace">
   <li>output dir: /tigress/wenchang/MODEL_OUT/bosongz/HIRAM/clima_2xCO2</li>
-  <li>real output dir: /projects/GEOCLIM/bosong/MODEL_OUT/HIRAM/clima_2xCO2</li>
+  <li>real output dir: /projects2/GEOCLIM/bosong/MODEL_OUT/HIRAM/clima_2xCO2</li>
   <li>50 years: 0101-0150</li>
 <!-- item ends -->
 </div> <!-- card -->
 </div> <!--accordion-collapse -->
 </div> <!-- accordion-item -->
+
 <div class="accordion-item">
 <h2 class="accordion-header">
  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#clima_amipContent">
@@ -67,12 +71,13 @@
 <div id="clima_amipContent" class="accordion-collapse collapse ">
 <div class="card card-body border-0 text-muted font-monospace">
   <li>output dir: /tigress/wenchang/MODEL_OUT/bosongz/HIRAM/clima_amip</li>
-  <li>real output dir: /projects/GEOCLIM/bosong/MODEL_OUT/HIRAM/clima_amip</li>
+  <li>real output dir: /projects2/GEOCLIM/bosong/MODEL_OUT/HIRAM/clima_amip</li>
   <li>39 years: 1979-2017</li>
 <!-- item ends -->
 </div> <!-- card -->
 </div> <!--accordion-collapse -->
 </div> <!-- accordion-item -->
+
 <div class="accordion-item">
 <h2 class="accordion-header">
  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#clima_amip_with_interannual_variabilityContent">
@@ -82,12 +87,13 @@
 <div id="clima_amip_with_interannual_variabilityContent" class="accordion-collapse collapse ">
 <div class="card card-body border-0 text-muted font-monospace">
   <li>output dir: /tigress/wenchang/MODEL_OUT/bosongz/HIRAM/clima_amip_with_interannual_variability</li>
-  <li>real output dir: /projects/GEOCLIM/bosong/MODEL_OUT/HIRAM/clima_amip_with_interannual_variability</li>
+  <li>real output dir: /projects2/GEOCLIM/bosong/MODEL_OUT/HIRAM/clima_amip_with_interannual_variability</li>
   <li>37 years: 1980-2016</li>
 <!-- item ends -->
 </div> <!-- card -->
 </div> <!--accordion-collapse -->
 </div> <!-- accordion-item -->
+
 <div class="accordion-item">
 <h2 class="accordion-header">
  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#clima_clrContent">
@@ -97,12 +103,13 @@
 <div id="clima_clrContent" class="accordion-collapse collapse ">
 <div class="card card-body border-0 text-muted font-monospace">
   <li>output dir: /tigress/wenchang/MODEL_OUT/bosongz/HIRAM/clima_clr</li>
-  <li>real output dir: /projects/GEOCLIM/bosong/MODEL_OUT/HIRAM/clima_clr</li>
+  <li>real output dir: /projects2/GEOCLIM/bosong/MODEL_OUT/HIRAM/clima_clr</li>
   <li>50 years: 0101-0150</li>
 <!-- item ends -->
 </div> <!-- card -->
 </div> <!--accordion-collapse -->
 </div> <!-- accordion-item -->
+
 <div class="accordion-item">
 <h2 class="accordion-header">
  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#clima_clr_moreContent">
@@ -112,12 +119,13 @@
 <div id="clima_clr_moreContent" class="accordion-collapse collapse ">
 <div class="card card-body border-0 text-muted font-monospace">
   <li>output dir: /tigress/wenchang/MODEL_OUT/bosongz/HIRAM/clima_clr_more</li>
-  <li>real output dir: /projects/GEOCLIM/bosong/MODEL_OUT/HIRAM/clima_clr_more</li>
+  <li>real output dir: /projects2/GEOCLIM/bosong/MODEL_OUT/HIRAM/clima_clr_more</li>
   <li>50 years: 0101-0150</li>
 <!-- item ends -->
 </div> <!-- card -->
 </div> <!--accordion-collapse -->
 </div> <!-- accordion-item -->
+
 <div class="accordion-item">
 <h2 class="accordion-header">
  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#clima_hybridrad_plus2KContent">
@@ -127,12 +135,13 @@
 <div id="clima_hybridrad_plus2KContent" class="accordion-collapse collapse ">
 <div class="card card-body border-0 text-muted font-monospace">
   <li>output dir: /tigress/wenchang/MODEL_OUT/bosongz/HIRAM/clima_hybridrad_plus2K</li>
-  <li>real output dir: /projects/GEOCLIM/bosong/MODEL_OUT/HIRAM/clima_hybridrad_plus2K</li>
+  <li>real output dir: /projects2/GEOCLIM/bosong/MODEL_OUT/HIRAM/clima_hybridrad_plus2K</li>
   <li>50 years: 0101-0150</li>
 <!-- item ends -->
 </div> <!-- card -->
 </div> <!--accordion-collapse -->
 </div> <!-- accordion-item -->
+
 <div class="accordion-item">
 <h2 class="accordion-header">
  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#clima_plus2KContent">
@@ -142,12 +151,13 @@
 <div id="clima_plus2KContent" class="accordion-collapse collapse ">
 <div class="card card-body border-0 text-muted font-monospace">
   <li>output dir: /tigress/wenchang/MODEL_OUT/bosongz/HIRAM/clima_plus2K</li>
-  <li>real output dir: /projects/GEOCLIM/bosong/MODEL_OUT/HIRAM/clima_plus2K</li>
+  <li>real output dir: /projects2/GEOCLIM/bosong/MODEL_OUT/HIRAM/clima_plus2K</li>
   <li>50 years: 0101-0150</li>
 <!-- item ends -->
 </div> <!-- card -->
 </div> <!--accordion-collapse -->
 </div> <!-- accordion-item -->
+
 <div class="accordion-item">
 <h2 class="accordion-header">
  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#clima_plus2K_2xCO2Content">
@@ -157,12 +167,13 @@
 <div id="clima_plus2K_2xCO2Content" class="accordion-collapse collapse ">
 <div class="card card-body border-0 text-muted font-monospace">
   <li>output dir: /tigress/wenchang/MODEL_OUT/bosongz/HIRAM/clima_plus2K_2xCO2</li>
-  <li>real output dir: /projects/GEOCLIM/bosong/MODEL_OUT/HIRAM/clima_plus2K_2xCO2</li>
+  <li>real output dir: /projects2/GEOCLIM/bosong/MODEL_OUT/HIRAM/clima_plus2K_2xCO2</li>
   <li>50 years: 0101-0150</li>
 <!-- item ends -->
 </div> <!-- card -->
 </div> <!--accordion-collapse -->
 </div> <!-- accordion-item -->
+
 <div class="accordion-item">
 <h2 class="accordion-header">
  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#clima_plus4KContent">
@@ -172,12 +183,13 @@
 <div id="clima_plus4KContent" class="accordion-collapse collapse ">
 <div class="card card-body border-0 text-muted font-monospace">
   <li>output dir: /tigress/wenchang/MODEL_OUT/bosongz/HIRAM/clima_plus4K</li>
-  <li>real output dir: /projects/GEOCLIM/bosong/MODEL_OUT/HIRAM/clima_plus4K</li>
+  <li>real output dir: /projects2/GEOCLIM/bosong/MODEL_OUT/HIRAM/clima_plus4K</li>
   <li>50 years: 0101-0150</li>
 <!-- item ends -->
 </div> <!-- card -->
 </div> <!--accordion-collapse -->
 </div> <!-- accordion-item -->
+
 <div class="accordion-item">
 <h2 class="accordion-header">
  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#clima_zonal_meanContent">
@@ -187,12 +199,13 @@
 <div id="clima_zonal_meanContent" class="accordion-collapse collapse ">
 <div class="card card-body border-0 text-muted font-monospace">
   <li>output dir: /tigress/wenchang/MODEL_OUT/bosongz/HIRAM/clima_zonal_mean</li>
-  <li>real output dir: /projects/GEOCLIM/bosong/MODEL_OUT/HIRAM/clima_zonal_mean</li>
+  <li>real output dir: /projects2/GEOCLIM/bosong/MODEL_OUT/HIRAM/clima_zonal_mean</li>
   <li>50 years: 0101-0150</li>
 <!-- item ends -->
 </div> <!-- card -->
 </div> <!--accordion-collapse -->
 </div> <!-- accordion-item -->
+
 <div class="accordion-item">
 <h2 class="accordion-header">
  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#climaBLContent">
@@ -202,12 +215,13 @@
 <div id="climaBLContent" class="accordion-collapse collapse ">
 <div class="card card-body border-0 text-muted font-monospace">
   <li>output dir: /tigress/wenchang/MODEL_OUT/bosongz/HIRAM/climaBL</li>
-  <li>real output dir: /projects/GEOCLIM/bosong/MODEL_OUT/HIRAM/climaBL</li>
+  <li>real output dir: /projects2/GEOCLIM/bosong/MODEL_OUT/HIRAM/climaBL</li>
   <li>50 years: 0101-0150</li>
 <!-- item ends -->
 </div> <!-- card -->
 </div> <!--accordion-collapse -->
 </div> <!-- accordion-item -->
+
 <div class="accordion-item">
 <h2 class="accordion-header">
  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#climaFTContent">
@@ -217,12 +231,13 @@
 <div id="climaFTContent" class="accordion-collapse collapse ">
 <div class="card card-body border-0 text-muted font-monospace">
   <li>output dir: /tigress/wenchang/MODEL_OUT/bosongz/HIRAM/climaFT</li>
-  <li>real output dir: /projects/GEOCLIM/bosong/MODEL_OUT/HIRAM/climaFT</li>
+  <li>real output dir: /projects2/GEOCLIM/bosong/MODEL_OUT/HIRAM/climaFT</li>
   <li>50 years: 0101-0150</li>
 <!-- item ends -->
 </div> <!-- card -->
 </div> <!--accordion-collapse -->
 </div> <!-- accordion-item -->
+
 <div class="accordion-item">
 <h2 class="accordion-header">
  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#climafullContent">
@@ -232,12 +247,13 @@
 <div id="climafullContent" class="accordion-collapse collapse ">
 <div class="card card-body border-0 text-muted font-monospace">
   <li>output dir: /tigress/wenchang/MODEL_OUT/bosongz/HIRAM/climafull</li>
-  <li>real output dir: /projects/GEOCLIM/bosong/MODEL_OUT/HIRAM/climafull</li>
+  <li>real output dir: /projects2/GEOCLIM/bosong/MODEL_OUT/HIRAM/climafull</li>
   <li>20 years: 0101-0120</li>
 <!-- item ends -->
 </div> <!-- card -->
 </div> <!--accordion-collapse -->
 </div> <!-- accordion-item -->
+
 <div class="accordion-item">
 <h2 class="accordion-header">
  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#climasf_iceContent">
@@ -247,12 +263,13 @@
 <div id="climasf_iceContent" class="accordion-collapse collapse ">
 <div class="card card-body border-0 text-muted font-monospace">
   <li>output dir: /tigress/wenchang/MODEL_OUT/bosongz/HIRAM/climasf_ice</li>
-  <li>real output dir: /projects/GEOCLIM/bosong/MODEL_OUT/HIRAM/climasf_ice</li>
+  <li>real output dir: /projects2/GEOCLIM/bosong/MODEL_OUT/HIRAM/climasf_ice</li>
   <li>50 years: 0101-0150</li>
 <!-- item ends -->
 </div> <!-- card -->
 </div> <!--accordion-collapse -->
 </div> <!-- accordion-item -->
+
 <div class="accordion-item">
 <h2 class="accordion-header">
  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#climastratContent">
@@ -262,12 +279,13 @@
 <div id="climastratContent" class="accordion-collapse collapse ">
 <div class="card card-body border-0 text-muted font-monospace">
   <li>output dir: /tigress/wenchang/MODEL_OUT/bosongz/HIRAM/climastrat</li>
-  <li>real output dir: /projects/GEOCLIM/bosong/MODEL_OUT/HIRAM/climastrat</li>
+  <li>real output dir: /projects2/GEOCLIM/bosong/MODEL_OUT/HIRAM/climastrat</li>
   <li>19 years: 0101-0119</li>
 <!-- item ends -->
 </div> <!-- card -->
 </div> <!--accordion-collapse -->
 </div> <!-- accordion-item -->
+
 <div class="accordion-item">
 <h2 class="accordion-header">
  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#control_1200s_rad_time_stepContent">
@@ -277,12 +295,13 @@
 <div id="control_1200s_rad_time_stepContent" class="accordion-collapse collapse ">
 <div class="card card-body border-0 text-muted font-monospace">
   <li>output dir: /tigress/wenchang/MODEL_OUT/bosongz/HIRAM/control_1200s_rad_time_step</li>
-  <li>real output dir: /projects/GEOCLIM/bosong/MODEL_OUT/HIRAM/control_1200s_rad_time_step</li>
+  <li>real output dir: /projects2/GEOCLIM/bosong/MODEL_OUT/HIRAM/control_1200s_rad_time_step</li>
   <li>20 years: 0101-0120</li>
 <!-- item ends -->
 </div> <!-- card -->
 </div> <!--accordion-collapse -->
 </div> <!-- accordion-item -->
+
 <div class="accordion-item">
 <h2 class="accordion-header">
  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#diurnalContent">
@@ -292,12 +311,13 @@
 <div id="diurnalContent" class="accordion-collapse collapse ">
 <div class="card card-body border-0 text-muted font-monospace">
   <li>output dir: /tigress/wenchang/MODEL_OUT/bosongz/HIRAM/diurnal</li>
-  <li>real output dir: /projects/GEOCLIM/bosong/MODEL_OUT/HIRAM/diurnal</li>
+  <li>real output dir: /projects2/GEOCLIM/bosong/MODEL_OUT/HIRAM/diurnal</li>
   <li>50 years: 0101-0150</li>
 <!-- item ends -->
 </div> <!-- card -->
 </div> <!--accordion-collapse -->
 </div> <!-- accordion-item -->
+
 <div class="accordion-item">
 <h2 class="accordion-header">
  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#heating_3hourlyContent">
@@ -307,12 +327,13 @@
 <div id="heating_3hourlyContent" class="accordion-collapse collapse ">
 <div class="card card-body border-0 text-muted font-monospace">
   <li>output dir: /tigress/wenchang/MODEL_OUT/bosongz/HIRAM/heating_3hourly</li>
-  <li>real output dir: /projects/GEOCLIM/bosong/MODEL_OUT/HIRAM/heating_3hourly</li>
+  <li>real output dir: /projects2/GEOCLIM/bosong/MODEL_OUT/HIRAM/heating_3hourly</li>
   <li>20 years: 0101-0120</li>
 <!-- item ends -->
 </div> <!-- card -->
 </div> <!--accordion-collapse -->
 </div> <!-- accordion-item -->
+
 <div class="accordion-item">
 <h2 class="accordion-header">
  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#nudging_MERRA2Content">
@@ -322,12 +343,13 @@
 <div id="nudging_MERRA2Content" class="accordion-collapse collapse ">
 <div class="card card-body border-0 text-muted font-monospace">
   <li>output dir: /tigress/wenchang/MODEL_OUT/bosongz/HIRAM/nudging_MERRA2</li>
-  <li>real output dir: /projects/GEOCLIM/bosong/MODEL_OUT/HIRAM/nudging_MERRA2</li>
+  <li>real output dir: /projects2/GEOCLIM/bosong/MODEL_OUT/HIRAM/nudging_MERRA2</li>
   <li>50 years: 0101-0150</li>
 <!-- item ends -->
 </div> <!-- card -->
 </div> <!--accordion-collapse -->
 </div> <!-- accordion-item -->
+
 <div class="accordion-item">
 <h2 class="accordion-header">
  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#nudging_MERRA2_2xCO2Content">
@@ -337,12 +359,13 @@
 <div id="nudging_MERRA2_2xCO2Content" class="accordion-collapse collapse ">
 <div class="card card-body border-0 text-muted font-monospace">
   <li>output dir: /tigress/wenchang/MODEL_OUT/bosongz/HIRAM/nudging_MERRA2_2xCO2</li>
-  <li>real output dir: /projects/GEOCLIM/bosong/MODEL_OUT/HIRAM/nudging_MERRA2_2xCO2</li>
+  <li>real output dir: /projects2/GEOCLIM/bosong/MODEL_OUT/HIRAM/nudging_MERRA2_2xCO2</li>
   <li>50 years: 0101-0150</li>
 <!-- item ends -->
 </div> <!-- card -->
 </div> <!--accordion-collapse -->
 </div> <!-- accordion-item -->
+
 <div class="accordion-item">
 <h2 class="accordion-header">
  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#override_MERRA2Content">
@@ -352,12 +375,13 @@
 <div id="override_MERRA2Content" class="accordion-collapse collapse ">
 <div class="card card-body border-0 text-muted font-monospace">
   <li>output dir: /tigress/wenchang/MODEL_OUT/bosongz/HIRAM/override_MERRA2</li>
-  <li>real output dir: /projects/GEOCLIM/bosong/MODEL_OUT/HIRAM/override_MERRA2</li>
+  <li>real output dir: /projects2/GEOCLIM/bosong/MODEL_OUT/HIRAM/override_MERRA2</li>
   <li>50 years: 0101-0150</li>
 <!-- item ends -->
 </div> <!-- card -->
 </div> <!--accordion-collapse -->
 </div> <!-- accordion-item -->
+
 </div> <!-- accordion -->
 
 <!-- <p class="text-center text-muted my-4">WenchangYang</p> -->
