@@ -21,7 +21,7 @@
   <li>Wenchang Yang</li>
 
   <li>Princeton University</li>
-  <li>2024-03-26</li>
+  <li>2024-06-25</li>
 <h5><span class="mt-3 mb-0 badge bg-info text-dark"><span><a href="https://www.gfdl.noaa.gov/cm2-5-and-flor/" class="text-dark">FLOR</a></span></h5>
   <li>AOGCM (atmosphere-ocean coupled)</li>
   <li>~50km atmos/land, 1 deg ocean/ice</li>
@@ -966,8 +966,49 @@ Ensemble simulations driven by historical and RCP4.5 (after year 2005) radiative
 
 <div class="accordion-item">
 <h2 class="accordion-header">
+ <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#nudgeAll_newdiag_tigercpu_intelmpi_18_576PEContent">
+[41; FLOR] nudgeAll_newdiag_tigercpu_intelmpi_18_576PE 
+</button>
+</h2>
+<div id="nudgeAll_newdiag_tigercpu_intelmpi_18_576PEContent" class="accordion-collapse collapse ">
+<div class="card card-body border-0 text-muted font-monospace">
+<div>
+en01: similar to en01 of nudgeLongAll_newdiag_tigercpu_intelmpi_18_576PE except:
+<br>
+* integration starts from 1979 (vs 1871)
+<br>
+* cmip6 volcanic forcings (vs. cmip5)
+<br>
+* zero_net_water_restore set to be .true. (vs .false.)
+<br>
+
+<br>
+en02+: similar to en01 except:
+<br>
+* initial conditions from restart files of nudgeLongAll_newdiag_tigercpu_intelmpi_18_576PE (same ensemble member, state at the beginning of year 1979) (vs restart files from CTL1860_newdiag)
+<br>
+en02+: similar to en02+ of nudgeLongAll_newdiag_tigercpu_intelmpi_18_576PE except:
+<br>
+* zero_net_water_restore is set .true. for nudgeAll vs .false. for nudgeLongAll (comparison of the two can reveal the zero_net_water_restore impact).
+<br>
+</div>
+<br>
+  <li>output dir: /tigress/wenchang/MODEL_OUT/nudgeAll_newdiag_tigercpu_intelmpi_18_576PE</li>
+  <li>2 ensemble members: 01, 02</li>
+  <li>en01: 38 years, 1979-2016</li>
+  <li>en02: 38 years, 1979-2016</li>
+  <li>TC analysis dir: /tigress/wenchang/analysis/TC/nudgeAll_newdiag_tigercpu_intelmpi_18_576PE</li>
+  <li>experiment dir: /tigress/wenchang/CM2.5_tiger2_wy/CM2.5/exp/nudgeAll</li>
+  <li>README.md of experiment (/tigress/wenchang/CM2.5_tiger2_wy/CM2.5/exp/nudgeAll/README.md)</li>
+<!-- item ends -->
+</div> <!-- card -->
+</div> <!--accordion-collapse -->
+</div> <!-- accordion-item -->
+
+<div class="accordion-item">
+<h2 class="accordion-header">
  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#nudgeClimAll_1990_tigercpu_intelmpi_18_576PEContent">
-[41; FLOR] nudgeClimAll_1990_tigercpu_intelmpi_18_576PE 
+[42; FLOR] nudgeClimAll_1990_tigercpu_intelmpi_18_576PE 
 </button>
 </h2>
 <div id="nudgeClimAll_1990_tigercpu_intelmpi_18_576PEContent" class="accordion-collapse collapse ">
@@ -983,7 +1024,7 @@ Ensemble simulations driven by historical and RCP4.5 (after year 2005) radiative
 <div class="accordion-item">
 <h2 class="accordion-header">
  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#nudgeClimAll_model_1860_tigercpu_intelmpi_18_576PEContent">
-[42; FLOR] nudgeClimAll_model_1860_tigercpu_intelmpi_18_576PE 
+[43; FLOR] nudgeClimAll_model_1860_tigercpu_intelmpi_18_576PE 
 </button>
 </h2>
 <div id="nudgeClimAll_model_1860_tigercpu_intelmpi_18_576PEContent" class="accordion-collapse collapse ">
@@ -999,7 +1040,7 @@ Ensemble simulations driven by historical and RCP4.5 (after year 2005) radiative
 <div class="accordion-item">
 <h2 class="accordion-header">
  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#nudgeclimo_all_1871-1890_tigercpu_intelmpi_18_576PEContent">
-[43; FLOR] nudgeclimo_all_1871-1890_tigercpu_intelmpi_18_576PE 
+[44; FLOR] nudgeclimo_all_1871-1890_tigercpu_intelmpi_18_576PE 
 </button>
 </h2>
 <div id="nudgeclimo_all_1871-1890_tigercpu_intelmpi_18_576PEContent" class="accordion-collapse collapse ">
@@ -1015,7 +1056,7 @@ Ensemble simulations driven by historical and RCP4.5 (after year 2005) radiative
 <div class="accordion-item">
 <h2 class="accordion-header">
  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#nudgeclimo_all_model_CTL1860_M1K_tigercpu_intelmpi_18_576PEContent">
-[44; FLOR] nudgeclimo_all_model_CTL1860_M1K_tigercpu_intelmpi_18_576PE 
+[45; FLOR] nudgeclimo_all_model_CTL1860_M1K_tigercpu_intelmpi_18_576PE 
 </button>
 </h2>
 <div id="nudgeclimo_all_model_CTL1860_M1K_tigercpu_intelmpi_18_576PEContent" class="accordion-collapse collapse ">
@@ -1031,7 +1072,7 @@ Ensemble simulations driven by historical and RCP4.5 (after year 2005) radiative
 <div class="accordion-item">
 <h2 class="accordion-header">
  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#nudgeclimo_all_model_CTL1860_m1p0sol_tigercpu_intelmpi_18_576PEContent">
-[45; FLOR] nudgeclimo_all_model_CTL1860_m1p0sol_tigercpu_intelmpi_18_576PE 
+[46; FLOR] nudgeclimo_all_model_CTL1860_m1p0sol_tigercpu_intelmpi_18_576PE 
 </button>
 </h2>
 <div id="nudgeclimo_all_model_CTL1860_m1p0sol_tigercpu_intelmpi_18_576PEContent" class="accordion-collapse collapse ">
@@ -1047,7 +1088,7 @@ Ensemble simulations driven by historical and RCP4.5 (after year 2005) radiative
 <div class="accordion-item">
 <h2 class="accordion-header">
  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#nudgeclimo_all_model_CTL1860_tigercpu_intelmpi_18_576PEContent">
-[46; FLOR] nudgeclimo_all_model_CTL1860_tigercpu_intelmpi_18_576PE 
+[47; FLOR] nudgeclimo_all_model_CTL1860_tigercpu_intelmpi_18_576PE 
 </button>
 </h2>
 <div id="nudgeclimo_all_model_CTL1860_tigercpu_intelmpi_18_576PEContent" class="accordion-collapse collapse ">
@@ -1064,7 +1105,7 @@ Ensemble simulations driven by historical and RCP4.5 (after year 2005) radiative
 <div class="accordion-item">
 <h2 class="accordion-header">
  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#nudgeLongAll_newdiag_tigercpu_intelmpi_18_576PEContent">
-[47; FLOR] nudgeLongAll_newdiag_tigercpu_intelmpi_18_576PE 
+[48; FLOR] nudgeLongAll_newdiag_tigercpu_intelmpi_18_576PE 
 </button>
 </h2>
 <div id="nudgeLongAll_newdiag_tigercpu_intelmpi_18_576PEContent" class="accordion-collapse collapse ">
@@ -1088,7 +1129,7 @@ Ensemble simulations driven by historical and RCP4.5 (after year 2005) radiative
 <div class="accordion-item">
 <h2 class="accordion-header">
  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#p1p0sol_CTL1860_tigercpu_intelmpi_18_576PEContent">
-[48; FLOR] p1p0sol_CTL1860_tigercpu_intelmpi_18_576PE 
+[49; FLOR] p1p0sol_CTL1860_tigercpu_intelmpi_18_576PE 
 </button>
 </h2>
 <div id="p1p0sol_CTL1860_tigercpu_intelmpi_18_576PEContent" class="accordion-collapse collapse ">
@@ -1105,7 +1146,7 @@ Ensemble simulations driven by historical and RCP4.5 (after year 2005) radiative
 <div class="accordion-item">
 <h2 class="accordion-header">
  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#p2p0sol_CTL1860_tigercpu_intelmpi_18_576PEContent">
-[49; FLOR] p2p0sol_CTL1860_tigercpu_intelmpi_18_576PE 
+[50; FLOR] p2p0sol_CTL1860_tigercpu_intelmpi_18_576PE 
 </button>
 </h2>
 <div id="p2p0sol_CTL1860_tigercpu_intelmpi_18_576PEContent" class="accordion-collapse collapse ">
@@ -1122,7 +1163,7 @@ Ensemble simulations driven by historical and RCP4.5 (after year 2005) radiative
 <div class="accordion-item">
 <h2 class="accordion-header">
  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#p6p0sol_CTL1860_tigercpu_intelmpi_18_576PEContent">
-[50; FLOR] p6p0sol_CTL1860_tigercpu_intelmpi_18_576PE 
+[51; FLOR] p6p0sol_CTL1860_tigercpu_intelmpi_18_576PE 
 </button>
 </h2>
 <div id="p6p0sol_CTL1860_tigercpu_intelmpi_18_576PEContent" class="accordion-collapse collapse ">
@@ -1139,7 +1180,7 @@ Ensemble simulations driven by historical and RCP4.5 (after year 2005) radiative
 <div class="accordion-item">
 <h2 class="accordion-header">
  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#Pinatubo_ens_noleap_nudgeclimo_all_model1860Content">
-[51; FLOR] Pinatubo_ens_noleap_nudgeclimo_all_model1860 
+[52; FLOR] Pinatubo_ens_noleap_nudgeclimo_all_model1860 
 </button>
 </h2>
 <div id="Pinatubo_ens_noleap_nudgeclimo_all_model1860Content" class="accordion-collapse collapse ">
@@ -1166,7 +1207,7 @@ Ensemble simulations driven by historical and RCP4.5 (after year 2005) radiative
 <div class="accordion-item">
 <h2 class="accordion-header">
  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#Pinatubo_PI_ens_noleapContent">
-[52; FLOR] Pinatubo_PI_ens_noleap 
+[53; FLOR] Pinatubo_PI_ens_noleap 
 </button>
 </h2>
 <div id="Pinatubo_PI_ens_noleapContent" class="accordion-collapse collapse ">
@@ -1213,7 +1254,7 @@ Ensemble simulations driven by historical and RCP4.5 (after year 2005) radiative
 <div class="accordion-item">
 <h2 class="accordion-header">
  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#Pinatubo_PI_ens_noleap_extendContent">
-[53; FLOR] Pinatubo_PI_ens_noleap_extend 
+[54; FLOR] Pinatubo_PI_ens_noleap_extend 
 </button>
 </h2>
 <div id="Pinatubo_PI_ens_noleap_extendContent" class="accordion-collapse collapse ">
@@ -1260,7 +1301,7 @@ Ensemble simulations driven by historical and RCP4.5 (after year 2005) radiative
 <div class="accordion-item">
 <h2 class="accordion-header">
  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#Pinatubo_PI_ens_noleap_nudgeclimo_all_1880Content">
-[54; FLOR] Pinatubo_PI_ens_noleap_nudgeclimo_all_1880 
+[55; FLOR] Pinatubo_PI_ens_noleap_nudgeclimo_all_1880 
 </button>
 </h2>
 <div id="Pinatubo_PI_ens_noleap_nudgeclimo_all_1880Content" class="accordion-collapse collapse ">
@@ -1281,7 +1322,7 @@ Ensemble simulations driven by historical and RCP4.5 (after year 2005) radiative
 <div class="accordion-item">
 <h2 class="accordion-header">
  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#StMaria_ens_noleap_nudgeclimo_all_model1860Content">
-[55; FLOR] StMaria_ens_noleap_nudgeclimo_all_model1860 
+[56; FLOR] StMaria_ens_noleap_nudgeclimo_all_model1860 
 </button>
 </h2>
 <div id="StMaria_ens_noleap_nudgeclimo_all_model1860Content" class="accordion-collapse collapse ">
@@ -1308,7 +1349,7 @@ Ensemble simulations driven by historical and RCP4.5 (after year 2005) radiative
 <div class="accordion-item">
 <h2 class="accordion-header">
  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#StMaria_IC361_PI_ens_noleapContent">
-[56; FLOR] StMaria_IC361_PI_ens_noleap 
+[57; FLOR] StMaria_IC361_PI_ens_noleap 
 </button>
 </h2>
 <div id="StMaria_IC361_PI_ens_noleapContent" class="accordion-collapse collapse ">
@@ -1354,7 +1395,7 @@ Ensemble simulations driven by historical and RCP4.5 (after year 2005) radiative
 <div class="accordion-item">
 <h2 class="accordion-header">
  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#StMaria_IC361_PI_ens_noleap_extendContent">
-[57; FLOR] StMaria_IC361_PI_ens_noleap_extend 
+[58; FLOR] StMaria_IC361_PI_ens_noleap_extend 
 </button>
 </h2>
 <div id="StMaria_IC361_PI_ens_noleap_extendContent" class="accordion-collapse collapse ">
@@ -1400,7 +1441,7 @@ Ensemble simulations driven by historical and RCP4.5 (after year 2005) radiative
 <div class="accordion-item">
 <h2 class="accordion-header">
  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#StMaria_IC501_PI_ens_noleapContent">
-[58; FLOR] StMaria_IC501_PI_ens_noleap 
+[59; FLOR] StMaria_IC501_PI_ens_noleap 
 </button>
 </h2>
 <div id="StMaria_IC501_PI_ens_noleapContent" class="accordion-collapse collapse ">
@@ -1446,7 +1487,7 @@ Ensemble simulations driven by historical and RCP4.5 (after year 2005) radiative
 <div class="accordion-item">
 <h2 class="accordion-header">
  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#StMaria_IC501_PI_ens_noleap_extendContent">
-[59; FLOR] StMaria_IC501_PI_ens_noleap_extend 
+[60; FLOR] StMaria_IC501_PI_ens_noleap_extend 
 </button>
 </h2>
 <div id="StMaria_IC501_PI_ens_noleap_extendContent" class="accordion-collapse collapse ">
@@ -1492,7 +1533,7 @@ Ensemble simulations driven by historical and RCP4.5 (after year 2005) radiative
 <div class="accordion-item">
 <h2 class="accordion-header">
  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#StMaria_PI_ens_noleapContent">
-[60; FLOR] StMaria_PI_ens_noleap 
+[61; FLOR] StMaria_PI_ens_noleap 
 </button>
 </h2>
 <div id="StMaria_PI_ens_noleapContent" class="accordion-collapse collapse ">
@@ -1539,7 +1580,7 @@ Ensemble simulations driven by historical and RCP4.5 (after year 2005) radiative
 <div class="accordion-item">
 <h2 class="accordion-header">
  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#StMaria_PI_ens_noleap_extendContent">
-[61; FLOR] StMaria_PI_ens_noleap_extend 
+[62; FLOR] StMaria_PI_ens_noleap_extend 
 </button>
 </h2>
 <div id="StMaria_PI_ens_noleap_extendContent" class="accordion-collapse collapse ">
@@ -1586,7 +1627,7 @@ Ensemble simulations driven by historical and RCP4.5 (after year 2005) radiative
 <div class="accordion-item">
 <h2 class="accordion-header">
  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#TCR2XCO2Y1860_noleap_tigercpu_intelmpi_18_576PEContent">
-[62; FLOR] TCR2XCO2Y1860_noleap_tigercpu_intelmpi_18_576PE 
+[63; FLOR] TCR2XCO2Y1860_noleap_tigercpu_intelmpi_18_576PE 
 </button>
 </h2>
 <div id="TCR2XCO2Y1860_noleap_tigercpu_intelmpi_18_576PEContent" class="accordion-collapse collapse ">

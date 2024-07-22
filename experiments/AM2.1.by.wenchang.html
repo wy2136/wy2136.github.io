@@ -21,7 +21,7 @@
   <li>Wenchang Yang</li>
 
   <li>Princeton University</li>
-  <li>2024-03-26</li>
+  <li>2024-05-20</li>
 <h5><span class="mt-3 mb-0 badge bg-info text-dark"><span><a href="https://github.com/mom-ocean/MOM4p1" class="text-dark">AM2.1</a></span></h5>
   <li>AGCM (atmosphere-only)</li>
   <li>~200km atmos/land</li>
@@ -148,6 +148,81 @@ AMIP experiment driven by historical radiative forcings as well as SST and sea i
 </h2>
 <div id="amipLMR2019SST0850_ens_tigercpu_intelmpi_18_30PEContent" class="accordion-collapse collapse ">
 <div class="card card-body border-0 text-muted font-monospace">
+<div>
+## TC statistical-dynamical model input variables from GCM
+<br>
+* monthly mean sea surface temperature (SST) and sea level pressure (SLP);
+<br>
+* monthly mean air temperature (ta) and specific humidity (qa); 
+<br>
+* daily mean winds at 250 and 850 hPa (u850, u250, v850, v250).
+<br>
+
+<br>
+Sep 20, 2022
+<br>
+
+<br>
+Dear Wenchang:  Here is what I need, on a global lat-long grid:
+<br>
+
+<br>
+Daily mean winds at 250 and 850 hPa
+<br>
+
+<br>
+Monthly mean SST and sea surface pressure
+<br>
+
+<br>
+Monthly mean atmospheric temperature and specific humidity at all model levels (pressure levels) up to at least 90 hPa.
+<br>
+
+<br>
+If you have it, I could also use ocean potential temperature down to at least 200 m. I expect if you are talking about AGCM, you do not have it, which is fine.
+<br>
+
+<br>
+Many thanks,  Kerry
+<br>
+
+<br>
+
+<br>
+## bias correction
+<br>
+* The bias is based on the comparison of AM2.1 to ERA5 climatologies over the 20-year period of 1980-1999. 
+<br>
+* For monthly data (SST, SLP, ta and qa), I just compare the monthly climatology. 
+<br>
+* For daily data (u850, u250, v850, v250), I compare the 31-day running daily climatology. 
+<br>
+
+<br>
+Sep 29, 2023
+<br>
+
+<br>
+Hi Kerry,
+<br>
+
+<br>
+I just realized that both the links are pointing to ensemble 04. The ensemble 05 link is actually http://tigress-web.princeton.edu/~wenchang/pub/MODEL_OUT/AM2.1/amipLMR2019SST0850_ens_tigercpu_intelmpi_18_30PE/en05/analysis_wy/TCmodelInput/. Sorry about this mistake.
+<br>
+
+<br>
+Now I have also finished the climatology bias corrected data for ensemble 01. The bias is based on the comparison to ERA5 data over the 20-year period of 1980-1999. For monthly data, I just compare the monthly climatology. For daily data, I compare the 31-day running daily climatology. The data are available at: http://tigress-web.princeton.edu/~wenchang/pub/MODEL_OUT/AM2.1/amipLMR2019SST0850_ens_tigercpu_intelmpi_18_30PE/en01/analysis_wy/TCmodelInput_biasCorrection/. Let me know if the link works.
+<br>
+
+<br>
+Best,
+<br>
+Wenchang
+<br>
+
+<br>
+</div>
+<br>
   <li>output dir: /tigress/wenchang/MODEL_OUT/AM2.1/amipLMR2019SST0850_ens_tigercpu_intelmpi_18_30PE</li>
   <li>5 ensemble members: 01, 02, 03, 04, 05</li>
   <li>en01: 1150 years, 0850-1999</li>
@@ -305,8 +380,23 @@ CO2 is instantaneously doubled from the control experiment CTL1990_2xCO2_tigercp
 
 <div class="accordion-item">
 <h2 class="accordion-header">
+ <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#CTL1990_plus2K_tropATL_tigercpu_intelmpi_18_30PEContent">
+[15; AM2.1] CTL1990_plus2K_tropATL_tigercpu_intelmpi_18_30PE 
+</button>
+</h2>
+<div id="CTL1990_plus2K_tropATL_tigercpu_intelmpi_18_30PEContent" class="accordion-collapse collapse ">
+<div class="card card-body border-0 text-muted font-monospace">
+  <li>output dir: /tigress/wenchang/MODEL_OUT/AM2.1/CTL1990_plus2K_tropATL_tigercpu_intelmpi_18_30PE</li>
+  <li>50 years: 0101-0150</li>
+<!-- item ends -->
+</div> <!-- card -->
+</div> <!--accordion-collapse -->
+</div> <!-- accordion-item -->
+
+<div class="accordion-item">
+<h2 class="accordion-header">
  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#CTL1990_plus4K_2xCO2_tigercpu_intelmpi_18_30PEContent">
-[15; AM2.1] CTL1990_plus4K_2xCO2_tigercpu_intelmpi_18_30PE 
+[16; AM2.1] CTL1990_plus4K_2xCO2_tigercpu_intelmpi_18_30PE 
 </button>
 </h2>
 <div id="CTL1990_plus4K_2xCO2_tigercpu_intelmpi_18_30PEContent" class="accordion-collapse collapse ">
@@ -322,7 +412,7 @@ CO2 is instantaneously doubled from the control experiment CTL1990_2xCO2_tigercp
 <div class="accordion-item">
 <h2 class="accordion-header">
  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#CTL1990_plus4K_tigercpu_intelmpi_18_30PEContent">
-[16; AM2.1] CTL1990_plus4K_tigercpu_intelmpi_18_30PE 
+[17; AM2.1] CTL1990_plus4K_tigercpu_intelmpi_18_30PE 
 </button>
 </h2>
 <div id="CTL1990_plus4K_tigercpu_intelmpi_18_30PEContent" class="accordion-collapse collapse ">
@@ -337,8 +427,23 @@ CO2 is instantaneously doubled from the control experiment CTL1990_2xCO2_tigercp
 
 <div class="accordion-item">
 <h2 class="accordion-header">
+ <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#CTL1990_plusP5K_tropATL_tigercpu_intelmpi_18_30PEContent">
+[18; AM2.1] CTL1990_plusP5K_tropATL_tigercpu_intelmpi_18_30PE 
+</button>
+</h2>
+<div id="CTL1990_plusP5K_tropATL_tigercpu_intelmpi_18_30PEContent" class="accordion-collapse collapse ">
+<div class="card card-body border-0 text-muted font-monospace">
+  <li>output dir: /tigress/wenchang/MODEL_OUT/AM2.1/CTL1990_plusP5K_tropATL_tigercpu_intelmpi_18_30PE</li>
+  <li>50 years: 0101-0150</li>
+<!-- item ends -->
+</div> <!-- card -->
+</div> <!--accordion-collapse -->
+</div> <!-- accordion-item -->
+
+<div class="accordion-item">
+<h2 class="accordion-header">
  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#CTL1990_tigercpu_intelmpi_18_30PEContent">
-[17; AM2.1] CTL1990_tigercpu_intelmpi_18_30PE 
+[19; AM2.1] CTL1990_tigercpu_intelmpi_18_30PE 
 </button>
 </h2>
 <div id="CTL1990_tigercpu_intelmpi_18_30PEContent" class="accordion-collapse collapse ">
@@ -354,7 +459,7 @@ CO2 is instantaneously doubled from the control experiment CTL1990_2xCO2_tigercp
 <div class="accordion-item">
 <h2 class="accordion-header">
  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#CTL1990i_tigercpu_intelmpi_18_30PEContent">
-[18; AM2.1] CTL1990i_tigercpu_intelmpi_18_30PE 
+[20; AM2.1] CTL1990i_tigercpu_intelmpi_18_30PE 
 </button>
 </h2>
 <div id="CTL1990i_tigercpu_intelmpi_18_30PEContent" class="accordion-collapse collapse ">
@@ -370,7 +475,7 @@ CO2 is instantaneously doubled from the control experiment CTL1990_2xCO2_tigercp
 <div class="accordion-item">
 <h2 class="accordion-header">
  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#CTL2010GF_2xCO2_tigercpu_intelmpi_18_30PEContent">
-[19; AM2.1] CTL2010GF_2xCO2_tigercpu_intelmpi_18_30PE 
+[21; AM2.1] CTL2010GF_2xCO2_tigercpu_intelmpi_18_30PE 
 </button>
 </h2>
 <div id="CTL2010GF_2xCO2_tigercpu_intelmpi_18_30PEContent" class="accordion-collapse collapse ">
@@ -386,7 +491,7 @@ CO2 is instantaneously doubled from the control experiment CTL1990_2xCO2_tigercp
 <div class="accordion-item">
 <h2 class="accordion-header">
  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#CTL2010GF_A1p5_7p5N_140E_tigercpu_intelmpi_18_30PEContent">
-[20; AM2.1] CTL2010GF_A1p5_7p5N_140E_tigercpu_intelmpi_18_30PE 
+[22; AM2.1] CTL2010GF_A1p5_7p5N_140E_tigercpu_intelmpi_18_30PE 
 </button>
 </h2>
 <div id="CTL2010GF_A1p5_7p5N_140E_tigercpu_intelmpi_18_30PEContent" class="accordion-collapse collapse ">
@@ -402,7 +507,7 @@ CO2 is instantaneously doubled from the control experiment CTL1990_2xCO2_tigercp
 <div class="accordion-item">
 <h2 class="accordion-header">
  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#CTL2010GF_A1p5_7p5N_340E_tigercpu_intelmpi_18_30PEContent">
-[21; AM2.1] CTL2010GF_A1p5_7p5N_340E_tigercpu_intelmpi_18_30PE 
+[23; AM2.1] CTL2010GF_A1p5_7p5N_340E_tigercpu_intelmpi_18_30PE 
 </button>
 </h2>
 <div id="CTL2010GF_A1p5_7p5N_340E_tigercpu_intelmpi_18_30PEContent" class="accordion-collapse collapse ">
@@ -418,7 +523,7 @@ CO2 is instantaneously doubled from the control experiment CTL1990_2xCO2_tigercp
 <div class="accordion-item">
 <h2 class="accordion-header">
  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#CTL2010GF_A1p5_7p5S_220E_tigercpu_intelmpi_18_30PEContent">
-[22; AM2.1] CTL2010GF_A1p5_7p5S_220E_tigercpu_intelmpi_18_30PE 
+[24; AM2.1] CTL2010GF_A1p5_7p5S_220E_tigercpu_intelmpi_18_30PE 
 </button>
 </h2>
 <div id="CTL2010GF_A1p5_7p5S_220E_tigercpu_intelmpi_18_30PEContent" class="accordion-collapse collapse ">
@@ -434,7 +539,7 @@ CO2 is instantaneously doubled from the control experiment CTL1990_2xCO2_tigercp
 <div class="accordion-item">
 <h2 class="accordion-header">
  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#CTL2010GF_tigercpu_intelmpi_18_30PEContent">
-[23; AM2.1] CTL2010GF_tigercpu_intelmpi_18_30PE 
+[25; AM2.1] CTL2010GF_tigercpu_intelmpi_18_30PE 
 </button>
 </h2>
 <div id="CTL2010GF_tigercpu_intelmpi_18_30PEContent" class="accordion-collapse collapse ">
@@ -451,7 +556,7 @@ CO2 is instantaneously doubled from the control experiment CTL1990_2xCO2_tigercp
 <div class="accordion-item">
 <h2 class="accordion-header">
  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#LMR2018SST1200-1400_tigercpu_intelmpi_18_30PEContent">
-[24; AM2.1] LMR2018SST1200-1400_tigercpu_intelmpi_18_30PE 
+[26; AM2.1] LMR2018SST1200-1400_tigercpu_intelmpi_18_30PE 
 </button>
 </h2>
 <div id="LMR2018SST1200-1400_tigercpu_intelmpi_18_30PEContent" class="accordion-collapse collapse ">
@@ -467,7 +572,7 @@ CO2 is instantaneously doubled from the control experiment CTL1990_2xCO2_tigercp
 <div class="accordion-item">
 <h2 class="accordion-header">
  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#LMR2018SST1450-1550_tigercpu_intelmpi_18_30PEContent">
-[25; AM2.1] LMR2018SST1450-1550_tigercpu_intelmpi_18_30PE 
+[27; AM2.1] LMR2018SST1450-1550_tigercpu_intelmpi_18_30PE 
 </button>
 </h2>
 <div id="LMR2018SST1450-1550_tigercpu_intelmpi_18_30PEContent" class="accordion-collapse collapse ">
@@ -483,7 +588,7 @@ CO2 is instantaneously doubled from the control experiment CTL1990_2xCO2_tigercp
 <div class="accordion-item">
 <h2 class="accordion-header">
  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#LMR2019SST1200-1400_tigercpu_intelmpi_18_30PEContent">
-[26; AM2.1] LMR2019SST1200-1400_tigercpu_intelmpi_18_30PE 
+[28; AM2.1] LMR2019SST1200-1400_tigercpu_intelmpi_18_30PE 
 </button>
 </h2>
 <div id="LMR2019SST1200-1400_tigercpu_intelmpi_18_30PEContent" class="accordion-collapse collapse ">
@@ -499,7 +604,7 @@ CO2 is instantaneously doubled from the control experiment CTL1990_2xCO2_tigercp
 <div class="accordion-item">
 <h2 class="accordion-header">
  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#LMR2019SST1450-1550_tigercpu_intelmpi_18_30PEContent">
-[27; AM2.1] LMR2019SST1450-1550_tigercpu_intelmpi_18_30PE 
+[29; AM2.1] LMR2019SST1450-1550_tigercpu_intelmpi_18_30PE 
 </button>
 </h2>
 <div id="LMR2019SST1450-1550_tigercpu_intelmpi_18_30PEContent" class="accordion-collapse collapse ">
