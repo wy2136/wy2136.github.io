@@ -1,5 +1,16 @@
 [
     {
+    "author": "Peng Wu et al.",
+    "year": "2024",
+    "title": "气候变暖下北极开始燃烧",
+    "journal": "中国气象报8月9日, ",
+    "volume": " ", 
+    "page": " ",
+    "doi": "https://wy2136.github.io/publications/2024-08-09_CMN_ArcticWildfire.pdf",
+    "pdffile": "./publications/2024-08-09_CMN_ArcticWildfire.pdf",
+    "cite": "Wu2024ArcticWwildfire"
+    },
+    {
     "author": "Shiv Priyam Raghuraman, Brian Soden, Amy Clement, Gabriel Vecchi, Sofia Menemenlis and <span style='fot-weight:bold'>Wenchang Yang</span>",
     "year": "2024",
     "title": "The 2023 global warming spike was driven by El Niño/Southern Oscillation",
