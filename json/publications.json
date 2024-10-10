@@ -1,5 +1,17 @@
 [
     {
+    "author": "Raghuraman, SP, B Soden, A Clement, GA Vecchi, S Menemenlis, and <span style='font-weight:bold'>W Yang</span>",
+    "year": "2024",
+    "title": "The 2023 global warming spike was driven by the El Niño–Southern Oscillation",
+    "journal": "Atmos. Chem. Phys.",
+    "volume": "24",
+    "page": "11275–11283",
+    "doi": "10.5194/acp-24-11275-2024",
+    "pdffile": "./publications/Raghuraman2024.pdf",
+    "imageURL": "https://www.atmospheric-chemistry-and-physics.net/graphic_journal_cover_normal.png",
+    "cite": "Raghuraman2024"
+    },
+    {
     "author": "Hsieh TL, GA Vecchi, C Wang, <span style='font-weight:bold'>W Yang</span>, B Zhang, BJ Soden",
     "year": "2024",
     "title": "Dependence of tropical cyclone seeds and climate sensitivity on tropical cloud response",
@@ -8,7 +20,7 @@
     "page": "eadi2779",
     "doi": "10.1126/sciadv.adi2779",
     "pdffile": "./publications/Hsieh2024.pdf",
-    "imageURL": "https://www.science.org/cdn-cgi/image/width=400/cms/asset/45e4f09e-7b8c-45a9-8b3c-dcfd4e85439b/sciadv.2024.10.issue-37.largecover.jpg",
+    "imageURL": "https://www.science.org/cms/asset/6a43fc56-36fe-4a26-ac3d-2376c162977a/sciadv.2024.10.issue-37.largecover.jpg",
     "cite": "Hsieh2024"
     },
     {
@@ -188,7 +200,7 @@
     "page": "1-5",
     "doi": "10.1073/pnas.2108397118",
     "pdffile": "./publications/Yang2021pnas.pdf",
-    "imageURL": "https://www.pnas.org/cms/asset/a0f34ded-51d2-4dce-a4f0-3dc0726c50ed/pnas.2021.118.issue-41.largecover.png",
+    "imageURL": "https://www.pnas.org/cms/asset/b77a9269-8db4-481a-a4d9-f59e0c7e0fea/pnas.2021.118.issue-41.cover.gif",
     "cite": "Yang2021"
     },
     {
@@ -272,7 +284,7 @@
     "page": "7",
     "doi": "10.1073/pnas.2013182117",
     "pdffile": "./publications/Baker_2020pnas.pdf",
-    "imageURL": "https://www.pnas.org/cms/asset/6cbb9326-2d61-4ab7-9f9c-8576a39d48d3/pnas.2020.117.issue-48.largecover.png",
+    "imageURL": "https://www.pnas.org/cms/asset/31e2e275-0df1-4012-acad-399eee97d3ab/pnas.2020.117.issue-48.cover.gif",
     "cite": "Baker2020pnas"
     },
     {
@@ -452,7 +464,7 @@
     "page": "L05822",
     "doi": "10.1029/2006GL029077",
     "pdffile": "./publications/Yang_2007.pdf",
-    "imageURL": "https://agupubs.onlinelibrary.wiley.com/cms/asset/c51db4d5-d1c9-4651-aa28-e77113fa9dfd/grl.v51.2.cover.jpg",
+    "imageURL": "https://agupubs.onlinelibrary.wiley.com/cms/asset/cd72ed56-8d57-4593-998c-8a779d75b67b/grl.v51.20.cover.jpg",
     "cite": "Yang_2007"
     }
 ]
