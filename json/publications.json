@@ -1,5 +1,17 @@
 [
     {
+    "author": "Harding A, GA Vecchi, <span style='font-weight:bold'>W Yang</span>, DW Keith",
+    "year": "2024",
+    "title": "Impact of solar geoengineering on temperature-attributable mortality",
+    "journal": "Proc. Natl. Acad. Sci.",
+    "volume": "121",
+    "page": "1-9",
+    "doi": "10.1073/pnas.2401801121",
+    "pdffile": "./publications/Harding2024.pdf",
+    "imageURL": "https://www.pnas.org/cms/asset/433b8ee2-291a-4032-a821-9a689e8fcaa8/default_cover.png",
+    "cite": "Harding2024"
+    },
+    {
     "author": "Wang C, <span style='font-weight:bold'>W Yang</span>, GA Vecchi, B Zhang, BJ Soden, D Chan",
     "year": "2024",
     "title": "Diagnosing the factors that contribute to the intermodel spread of climate feedback in CMIP6",
@@ -32,7 +44,7 @@
     "page": "eadi2779",
     "doi": "10.1126/sciadv.adi2779",
     "pdffile": "./publications/Hsieh2024.pdf",
-    "imageURL": "https://www.science.org/cms/asset/6a43fc56-36fe-4a26-ac3d-2376c162977a/sciadv.2024.10.issue-37.largecover.jpg",
+	"imageURL": "https://www.science.org/cms/asset/0835b1ab-3fbb-49bf-9f3c-3c5c237c713e/sciadv.2024.10.issue-37.largecover.jpg",
     "cite": "Hsieh2024"
     },
     {
@@ -248,7 +260,7 @@
     "page": "1–8",
     "doi": "10.1126/sciadv.abg6931",
     "pdffile": "./publications/Chan2021.pdf",
-    "imageURL": "https://www.science.org/cms/asset/2a7874f6-279b-4c29-8231-3305d447c5ca/sciadv.2021.7.issue-26.largecover.jpg",
+    "imageURL": "https://www.science.org/cms/asset/e4ae5dd0-68cb-4422-8075-154a9e1a45df/sciadv.2021.7.issue-26.largecover.jpg",
     "cite": "Chan2021"
     },
     {
@@ -476,7 +488,7 @@
     "page": "L05822",
     "doi": "10.1029/2006GL029077",
     "pdffile": "./publications/Yang_2007.pdf",
-    "imageURL": "https://agupubs.onlinelibrary.wiley.com/cms/asset/cd72ed56-8d57-4593-998c-8a779d75b67b/grl.v51.20.cover.jpg",
+    "imageURL": "https://agupubs.onlinelibrary.wiley.com/cms/asset/1cec40d5-f940-41da-a6fd-9d700458f762/grl.v51.24.cover.gif",
     "cite": "Yang2007"
     }
 ]
