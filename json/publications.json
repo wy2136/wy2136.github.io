@@ -1,5 +1,17 @@
 [
     {
+    "author": "Wang C, <span style='font-weight:bold'>W Yang</span>, GA Vecchi, B Zhang, BJ Soden, D Chan",
+    "year": "2025",
+    "title": "Diagnosing the factors that contribute to the intermodel spread of climate feedback in CMIP6",
+    "journal": "J. Clim.",
+    "volume": "38",
+    "page": "663–674",
+    "doi": "10.1175/JCLI-D-23-0528.1",
+    "pdffile": "./publications/Wang2025.pdf",
+    "imageURL": "https://journals.ametsoc.org/coverimage?doc=%2Fjournals%2Fclim%2Faop%2Fissue.xml&width=200&type=webp",
+    "cite": "Wang2025"
+    },
+    {
     "author": "Harding A, GA Vecchi, <span style='font-weight:bold'>W Yang</span>, DW Keith",
     "year": "2024",
     "title": "Impact of solar geoengineering on temperature-attributable mortality",
@@ -10,18 +22,6 @@
     "pdffile": "./publications/Harding2024.pdf",
     "imageURL": "https://www.pnas.org/cms/asset/1b380647-bf0d-4726-ae83-831b34744880/pnas.2024.121.issue-52.cover.gif",
     "cite": "Harding2024"
-    },
-    {
-    "author": "Wang C, <span style='font-weight:bold'>W Yang</span>, GA Vecchi, B Zhang, BJ Soden, D Chan",
-    "year": "2024",
-    "title": "Diagnosing the factors that contribute to the intermodel spread of climate feedback in CMIP6",
-    "journal": "J. Clim.",
-    "volume": " ",
-    "page": "28",
-    "doi": "10.1175/JCLI-D-23-0528.1",
-    "pdffile": "./publications/Wang2024.pdf",
-    "imageURL": "https://journals.ametsoc.org/coverimage?doc=%2Fjournals%2Fclim%2Faop%2Fissue.xml&width=200&type=webp",
-    "cite": "Wang2024"
     },
     {
     "author": "Raghuraman, SP, B Soden, A Clement, GA Vecchi, S Menemenlis, and <span style='font-weight:bold'>W Yang</span>",
