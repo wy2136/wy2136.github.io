@@ -32,7 +32,7 @@
     "page": "1-9",
     "doi": "10.1073/pnas.2401801121",
     "pdffile": "./publications/Harding2024.pdf",
-    "imageURL": "https://www.pnas.org/cms/asset/1b380647-bf0d-4726-ae83-831b34744880/pnas.2024.121.issue-52.cover.gif",
+    "imageURL": "https://www.pnas.org/cms/asset/483029fd-0824-423f-8f18-cd01bb2ec447/pnas.2024.121.issue-52.cover.gif",
     "cite": "Harding2024"
     },
     {
@@ -56,7 +56,7 @@
     "page": "eadi2779",
     "doi": "10.1126/sciadv.adi2779",
     "pdffile": "./publications/Hsieh2024.pdf",
-	"imageURL": "https://www.science.org/cms/asset/0835b1ab-3fbb-49bf-9f3c-3c5c237c713e/sciadv.2024.10.issue-37.largecover.jpg",
+    "imageURL": "https://www.science.org/cms/asset/affa5f5a-070e-4a2b-a569-0443d086745a/sciadv.2024.10.issue-37.largecover.jpg",
     "cite": "Hsieh2024"
     },
     {
@@ -500,7 +500,7 @@
     "page": "L05822",
     "doi": "10.1029/2006GL029077",
     "pdffile": "./publications/Yang_2007.pdf",
-    "imageURL": "https://agupubs.onlinelibrary.wiley.com/cms/asset/1cec40d5-f940-41da-a6fd-9d700458f762/grl.v51.24.cover.gif",
+    "imageURL": "https://agupubs.onlinelibrary.wiley.com/cms/asset/919fc38b-9068-4ef2-9acf-3b893d451455/grl.v52.3.cover.jpg",
     "cite": "Yang2007"
     }
 ]
