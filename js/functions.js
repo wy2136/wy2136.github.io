@@ -212,10 +212,20 @@ function write_publications(ifile='./json/publications.json'){
         var bibString = '<span class="label label-default">' + (N-i).toString().padStart(2, '0') +  '</span> <a href="' + url + '" class="">' + title + '</a><br><span  class="text-muted">' + author + '</span><br> <span  class="text-muted"><i>' + journal + ' </i> ' + year + '. doi: ' + doi + '</span> <a href="'+pdffile+'" class="text-muted"><span class="glyphicon glyphicon-download-alt"></span></a>';
         document.write(bibString);
         if ('imageURL' in publications[i]){
-            var imageURL = publications[i].imageURL
-            var imageHTML = '<a href="' + url + '"><image src="' + imageURL + '" style="height:200px"></a>'
+            var imageURL = publications[i].imageURL;
+            var imageHTML = '<a href="' + url + '"><image src="' + imageURL + '" style="height:200px"></a>';
             document.write('<br>');
             document.write(imageHTML);
+        }
+        if ('figURL' in publications[i]){
+            var figURL = publications[i].figURL;
+            var figHTML = '<a href="' + url + '"><image src="' + figURL + '" style="height:200px"></a>';
+            if ('imageURL' in publications[i]){
+                document.write('&nbsp&nbsp');
+            }else{
+                document.write('<br>');
+            }
+            document.write(figHTML);
         }
         var dibadge = '<span class="__dimensions_badge_embed__" data-doi="' + doi + '" data-hide-zero-citations="true" data-style="small_rectangle"></span>'
 		var ambadge = '<span data-badge-popover="right" data-badge-type="2" data-doi="' + doi + '" data-hide-no-mentions="true" class="altmetric-embed"></span>';
