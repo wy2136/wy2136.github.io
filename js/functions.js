@@ -213,13 +213,13 @@ function write_publications(ifile='./json/publications.json'){
         document.write(bibString);
         if ('imageURL' in publications[i]){
             var imageURL = publications[i].imageURL;
-            var imageHTML = '<a href="' + url + '"><image src="' + imageURL + '" style="height:200px"></a>';
+            var imageHTML = '<a href="' + url + '"><image class="img-responsive img-rounded" src="' + imageURL + '" style="display: inline; height:200px; max-width:40%"></a>';
             document.write('<br>');
             document.write(imageHTML);
         }
         if ('figURL' in publications[i]){
             var figURL = publications[i].figURL;
-            var figHTML = '<a href="' + url + '"><image src="' + figURL + '" style="height:200px; width:200px" height="200" width="200"></a>';
+            var figHTML = '<a href="' + url + '"><image class="img-responsive img-rounded" src="' + figURL + '" style="display: inline;height:200px; max-width:50%"></a>';
             if ('imageURL' in publications[i]){
                 document.write('&nbsp&nbsp');
             }else{
