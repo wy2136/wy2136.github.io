@@ -165,6 +165,7 @@
     "doi": "10.1088/2752-5295/acf4b6",
     "pdffile": "https://iopscience.iop.org/article/10.1088/2752-5295/acf4b6/pdf",
     "imageURL": "https://cms.iopscience.org/7bd8425b-da6e-11eb-9303-9387556ca124/journal_cover?guest=true",
+    "figURL": "https://content.cld.iop.org/journals/2752-5295/2/4/045005/revision3/erclacf4b6f2_lr.jpg",
     "cite": "Zachariah2023"
     },
     {
@@ -177,6 +178,7 @@
     "doi": "10.1007/s10584-023-03576-3",
     "pdffile": "https://doi.org/10.1007/s10584-023-03576-3",
     "imageURL": "https://media.springernature.com/w184/springer-static/cover/journal/10584.jpg",
+    "figURL": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs10584-023-03576-3/MediaObjects/10584_2023_3576_Fig1_HTML.png",
     "cite": "Rivera2023"
     },
     {
@@ -189,6 +191,7 @@
     "doi": "10.1175/JCLI-D-22-0449.1",
     "pdffile": "./publications/Hsieh2023.pdf",
     "imageURL": "https://journals.ametsoc.org/coverimage?doc=%2Fjournals%2Fclim%2F36%2F16%2Fclim.36.issue-16.xml&width=200&type=webp",
+    "figURL": "https://journals.ametsoc.org/view/journals/clim/36/16/inline-JCLI-D-22-0449.1-f1.jpg",
     "cite": "Hsieh2023"
     },
     {
@@ -201,6 +204,7 @@
     "doi": "10.1088/2752-5295/acbfd5",
     "pdffile": "https://iopscience.iop.org/article/10.1088/2752-5295/acbfd5/pdf",
     "imageURL": "https://cms.iopscience.org/7bd8425b-da6e-11eb-9303-9387556ca124/journal_cover?guest=true",
+    "figURL": "https://content.cld.iop.org/journals/2752-5295/2/2/025001/revision2/erclacbfd5f7_lr.jpg",
     "cite": "Otto2023"
     },
     {
@@ -213,6 +217,7 @@
     "doi": "10.5194/esd-13-1689-2022",
     "pdffile": "https://esd.copernicus.org/articles/13/1689/2022/esd-13-1689-2022.pdf",
     "imageURL": "https://www.earth-system-dynamics.net/graphic_esd_cover_homepage.jpg",
+    "figURL": "https://esd.copernicus.org/articles/13/1689/2022/esd-13-1689-2022-f01-thumb.png",
     "cite": "Philip2022"
     },
     {
@@ -225,6 +230,7 @@
     "doi": "10.1088/2752-5295/aca695",
     "pdffile": "https://iopscience.iop.org/article/10.1088/2752-5295/aca695/pdf",
     "imageURL": "https://cms.iopscience.org/7bd8425b-da6e-11eb-9303-9387556ca124/journal_cover?guest=true",
+    "figURL": "https://content.cld.iop.org/journals/2752-5295/1/2/021003/revision2/erclaca695f2_lr.jpg",
     "cite": "Harrington2022"
     },
     {
@@ -237,6 +243,7 @@
     "doi": "10.1038/s41467-022-34321-6",
     "pdffile": "./publications/Bhatia2022.pdf",
     "imageURL": "http://covers.springernature.com/journals/jpg_width_153_pixels/41467.jpg",
+    "figURL": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41467-022-34321-6/MediaObjects/41467_2022_34321_Fig6_HTML.png",
     "cite": "Bhatia2022"
     },
     {
@@ -249,6 +256,7 @@
     "doi": "10.1029/2021GL097157",
     "pdffile": "./publications/Hsieh2022.pdf",
     "imageURL": "https://agupubs.onlinelibrary.wiley.com/cms/asset/e66d4d84-f588-405d-925c-adbaadada4b9/grl.v49.7.cover.jpg",
+    "figURL": "https://agupubs.onlinelibrary.wiley.com/cms/asset/c0f21a1e-9cc9-45eb-aa53-252cd38ca1a1/grl63982-fig-0001-m.png",
     "cite": "Hsieh2022"
     },
     {
@@ -274,6 +282,7 @@
     "doi": "10.1038/s41558-021-01152-0",
     "pdffile": "./publications/Liu2021.pdf",
     "imageURL": "https://media.springernature.com/w440/springer-static/cover-hires/journal/41558/11/10",
+    "figURL": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41558-021-01152-0/MediaObjects/41558_2021_1152_Fig1_HTML.png",
     "cite": "Liu2021"
     },
     {
@@ -286,6 +295,7 @@
     "doi": "10.1029/2021MS002675",
     "pdffile": "./publications/Zhang2021b.pdf",
     "imageURL": "https://agupubs.onlinelibrary.wiley.com/cms/asset/8c212af1-e145-4aa8-a9b9-b488db3e20e5/jame.v13.11.cover.jpg",
+    "figURL": "https://agupubs.onlinelibrary.wiley.com/cms/asset/c34e0739-e28b-4374-aa53-8c6754f9ea2d/jame21445-fig-0003-m.png",
     "cite": "Zhang2021b"
     },
     {
@@ -298,6 +308,7 @@
     "doi": "10.1126/sciadv.abg6931",
     "pdffile": "./publications/Chan2021.pdf",
     "imageURL": "https://www.science.org/cms/asset/e4ae5dd0-68cb-4422-8075-154a9e1a45df/sciadv.2021.7.issue-26.largecover.jpg",
+    "figURL": "https://www.science.org/cms/10.1126/sciadv.abg6931/asset/56ea11e8-e5d0-46ec-bbfb-c5c0051e1ed9/assets/graphic/abg6931-f1.jpeg",
     "cite": "Chan2021"
     },
     {
@@ -310,6 +321,7 @@
     "doi": "10.1175/JCLI-D-20-0574.1",
     "pdffile": "./publications/Zhang2021.pdf",
     "imageURL": "https://journals.ametsoc.org/coverimage?doc=%2Fjournals%2Fclim%2F34%2F6%2Fclim.34.issue-6.xml&width=200&type=webp",
+    "figURL": "https://journals.ametsoc.org/view/journals/clim/34/6/inline-JCLI-D-20-0574.1-f3.jpg",
     "cite": "Zhang2021"
     },
     {
@@ -322,6 +334,7 @@
     "doi": "10.1038/s41467-021-20991-1",
     "pdffile": "./publications/Baker2021.pdf",
     "imageURL": "http://covers.springernature.com/journals/jpg_width_153_pixels/41467.jpg",
+    "figURL": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41467-021-20991-1/MediaObjects/41467_2021_20991_Fig1_HTML.png",
     "cite": "Baker2021natcomm"
     },
     {
@@ -334,6 +347,7 @@
     "doi": "10.1029/2020GL091024",
     "pdffile": "./publications/Wang2021.pdf",
     "imageURL": "https://agupubs.onlinelibrary.wiley.com/cms/asset/0390114f-f56d-4522-afb4-37a23006c5ee/grl.v48.4.cover.jpg",
+    "figURL": "https://agupubs.onlinelibrary.wiley.com/cms/asset/72254105-2ff4-4403-ae2b-7d0a675b20bf/grl61923-fig-0002-m.png",
     "cite": "Wang2021"
     },
     {
@@ -346,6 +360,7 @@
     "doi": "10.1073/pnas.2013182117",
     "pdffile": "./publications/Baker_2020pnas.pdf",
     "imageURL": "https://www.pnas.org/cms/asset/31e2e275-0df1-4012-acad-399eee97d3ab/pnas.2020.117.issue-48.cover.gif",
+    "figURL": "https://www.pnas.org/cms/10.1073/pnas.2013182117/asset/7c3c7608-7f42-4223-bb77-d8731b087c77/assets/images/large/pnas.2013182117fig01.jpg",
     "cite": "Baker2020pnas"
     },
     {
