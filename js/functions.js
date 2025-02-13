@@ -213,7 +213,7 @@ function write_publications(ifile='./json/publications.json'){
         document.write(bibString);
         if ('imageURL' in publications[i]){
             var imageURL = publications[i].imageURL;
-            var imageHTML = '<a href="' + url + '"><image class="img-responsive img-rounded" src="' + imageURL + '" style="display: inline; height:200px; width:120px"></a>';
+            var imageHTML = '<a href="' + url + '"><image class="img-rounded" src="' + imageURL + '" style="display: inline; height:200px;"></a>';
             document.write('<br>');
             document.write(imageHTML);
         }
