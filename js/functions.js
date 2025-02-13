@@ -219,7 +219,7 @@ function write_publications(ifile='./json/publications.json'){
         }
         if ('figURL' in publications[i]){
             var figURL = publications[i].figURL;
-            var figHTML = '<a href="' + url + '"><image class="img-responsive img-rounded" src="' + figURL + '" style="display: inline;height:200px; max-width:50%"></a>';
+            var figHTML = '<a href="' + url + '"><image class="img-responsive img-rounded" src="' + figURL + '" style="display: inline;height:200px; min-width:160px;  max-width:50%"></a>';
             if ('imageURL' in publications[i]){
                 document.write('&nbsp');
             }else{
