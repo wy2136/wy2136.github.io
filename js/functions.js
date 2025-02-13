@@ -221,7 +221,7 @@ function write_publications(ifile='./json/publications.json'){
             var figURL = publications[i].figURL;
             var figHTML = '<a href="' + url + '"><image class="img-responsive img-rounded" src="' + figURL + '" style="display: inline;height:200px; max-width:40%"></a>';
             if ('imageURL' in publications[i]){
-                document.write('&nbsp&nbsp');
+                document.write('&nbsp');
             }else{
                 document.write('<br>');
             }
