@@ -238,6 +238,8 @@ function write_publications(ifile='./json/publications.json'){
 function write_publication(cite){
     // get data from publications.json
     var publications = JSON.parse(load_txt('./json/publications.json'));
+    var publications_bc = JSON.parse(load_txt('./json/publications_book_chapter.json'));
+    publications = publications.concat(publications_bc)
     var N = publications.length
     for (i=0;i<N;i++){
         var cite_i = publications[i].cite;
