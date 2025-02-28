@@ -124,10 +124,10 @@ function write_footer(self_depth){
 
     document.write(s)
 }
-function write_copyright(){
+function write_copyright(name='Wenchang Yang'){
     var d = new Date();
     var year = d.getFullYear();
-    document.write('&copy; '  + year + ' Wenchang Yang')
+    document.write('&copy; '  + year + ' ' + name)
 }
 //convert int to Roman numbers; used in write_stamp
 const intToRoman = num => {
