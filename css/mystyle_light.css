@@ -1,0 +1,70 @@
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+  /**/
+}
+body {
+  font-size:15px;
+  font-family: "Open Sans", "Helvetica", "sans-serif", "Roboto Slab", "serif";
+  /*background-color: white*/ ;
+  /*color: lightgray;*/
+}
+
+/*.header-color{color: #ee842f; background-color: #F4F4F4;}*/
+
+a {
+    text-decoration:none;
+    color:#0064a4 /*#9bddff*/;
+}
+a:hover,
+a:focus {
+    color: /*#ffd200*/ /*chocolate*/ #ee842f;
+    text-decoration:none;
+}
+
+footer {
+  min-height:300px;
+  font-size:0.9em;
+  background-color:/*#F4F4F4*/ black;
+  border-top:1px solid /*#E7E7E7*/ gray;
+}
+footer ul li a{
+  padding:0 1ex 0;
+  line-height:2em;
+}
+footer a {
+  color: gray;
+}
+footer a:focus {
+	color: #ee842f
+}
+
+.bg-color-nav{
+    background-color:#1b3d6d;
+}
+.bg-color-title{
+    background-color:/*lavender*/ /*#0064a4*/ /*#F4F4F4*/ transparent;
+}
+.bg-color-footer{
+    background-color:#F4F4F4;
+}
+.color-title{
+    color:/*#ffd200*/ /*#1b3d6d*/ /*chocolate*/ #ee842f;
+}
+.border-left{
+    border-left:1px solid /*lightgray*/ gray;
+}
+.border-right{
+    border-right:1px solid /*lightgray*/ gray;
+}
+.border-top{
+    border-top:1px solid /*lightgray*/ gray;
+}
+.border-bottom{
+    border-bottom:1px solid /*lightgray*/ gray;
+}
+.border-all{
+    border:1px solid /*lightgray*/ gray;
+}
+
+
