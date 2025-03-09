@@ -1,14 +1,47 @@
 [
     {
+    "author": "Park SW, I Holmdahl, E Howerton, <span style='font-weight:bold'>W Yang</span>, RE Baker, GA Vecchi, S Cobey, CJE Metcalf, BT Grenfell",
+    "year": "2025",
+    "title": "Interplay between climate, childhood mixing, and population-level susceptibility explains a sudden shift in RSV seasonality in Japan",
+    "journal": "medRxiv",
+    "volume": "2025-03-03",
+    "page": "24",
+    "doi": "10.1101/2025.03.02.25323095",
+    "pdffile": "https://www.medrxiv.org/content/10.1101/2025.03.02.25323095v1.full.pdf",
+    "cite": "Park2025medrxiv"
+    },
+    {
     "author": "Menemenlis S, GA Vecchi, <span style='font-weight:bold'>Wenchang Yang</span>, S Fueglistaler, SP Raghuraman",
     "year": "2025",
     "title": "Consequential Differences in Satellite-Era Sea Surface Temperature Trends Across Datasets",
     "journal": "Research Square, ",
     "volume": " ",
     "page": "26",
-    "doi": "10.21203/rs.3.rs-5493841/v1",
+    "doi": "10.21203/rs.3.rs-5220475/v1",
     "pdffile": "https://assets-eu.researchsquare.com/files/rs-5493841/v1_covered_b12e1aab-5eb1-438f-846f-174177b2e27a.pdf?c=1738636378",
     "cite": "Menemenlis2025pp"
+    },
+    {
+    "author": "He H, B Soden, B Zhang,  GA Vecchi, <span style='font-weight:bold'>W Yang</span>",
+    "year": "2024",
+    "title": "State dependence of cloud feedback and its implications for climate sensitivity",
+    "journal": "Research Square, ",
+    "volume": "2024-10-31",
+    "page": "20",
+    "doi": "10.21203/rs.3.rs-5493841/v1",
+    "pdffile": "https://assets-eu.researchsquare.com/files/rs-5220475/v1/05c5e0da-72a8-47c3-bed9-653d92bac096.pdf?c=1739468324",
+    "cite": "He2024pp2"
+    },
+    {
+    "author": "He H, B Soden, GA Vecchi, <span style='font-weight:bold'>W Yang</span>",
+    "year": "2024",
+    "title": "Weakening the CO2 Greenhouse Effect via Stratospheric Aerosol Injection",
+    "journal": "Research Square, ",
+    "volume": "2024-10-25",
+    "page": "17",
+    "doi": "10.21203/rs.3.rs-5210392/v1",
+    "pdffile": "https://assets-eu.researchsquare.com/files/rs-5210392/v1/e610e9ae-a05c-4e11-b10e-da170ccb5d9f.pdf?c=1729842968",
+    "cite": "He2024pp"
     },
     {
     "author": "Peng Wu et al.",
