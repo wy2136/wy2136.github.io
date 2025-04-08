@@ -157,7 +157,7 @@ function write_stamp(){
     var year = d.getFullYear();
     document.write('<img width="100px" src="https://avatars.githubusercontent.com/u/8202276"><br>'+ intToRoman(parseInt(year)))
 }
-function write_publications(ifile='./json/publications.json'){
+function write_publications(ifile='./json/publications.json', simpleStyle=false){
     document.write('<ul class="list-unstyled">');
     // get data from publications.json
     var publications = JSON.parse(load_txt(ifile));
@@ -207,26 +207,31 @@ function write_publications(ifile='./json/publications.json'){
         }
         // var dburl = publications[i].dburl;
         var pdffile = publications[i].pdffile
-        //var bibString = '<span class="label label-default">' + (N-i).toString().padStart(2, '0') +  '</span> <a href="' + url + '" class="">' + title + '</a><br>' + author + ' (' + year +')' + '<br> <i>' + journal + '</i>, <b>' + volume + '</b>, ' + page + ', doi: <span  class="text-muted">' + doi + '</span>, <a href="'+pdffile+'" class="text-muted"><span class="glyphicon glyphicon-download-alt"></span></a>';
-        //var bibString = '<span class="label label-default">' + (N-i).toString().padStart(2, '0') +  '</span> <a href="' + url + '" class="">' + title + '</a><br>' + author + ' (' + year +')' + '<br> <i>' + journal + '</i> <span  class="text-muted">doi: ' + doi + '</span>, <a href="'+pdffile+'" class="text-muted"><span class="glyphicon glyphicon-download-alt"></span></a>';
-        var bibString = '<span class="label label-default">' + (N-i).toString().padStart(2, '0') +  '</span> <a href="' + url + '" class="">' + title + '</a><br><span  class="text-muted">' + author + '</span><br> <span  class="text-muted"><i>' + journal + ' </i> ' + year + '. doi: ' + doi + '</span> <a href="'+pdffile+'" class="text-muted"><span class="glyphicon glyphicon-download-alt"></span></a>';
-        document.write(bibString);
-        if ('imageURL' in publications[i]){
-            var imageURL = publications[i].imageURL;
-            var imageHTML = '<a href="' + url + '"><image class="img-rounded" src="' + imageURL + '" style="display: inline; height:200px; width:150px"></a>';
-            document.write('<br>');
-            document.write(imageHTML);
-        }
-        if ('figURL' in publications[i]){
-            var figURL = publications[i].figURL;
-            var figHTML = '<a href="' + url + '"><image class="img-responsive img-rounded" src="' + figURL + '" style="display: inline;height:200px; min-width:160px;  max-width:50%"></a>';
+        if (simpleStyle){
+            var bibString = '<span class="label label-default">' + (N-i).toString().padStart(2, '0') + '</span>' + author + ' (' + year +'): <a href="' + url + '" class="">' + title + '</a>.&nbsp&nbsp<i>' + journal + '</i>&nbsp<span  class="text-muted">' + url + '</span>, <a href="'+pdffile+'" class="text-muted"><span class="glyphicon glyphicon-download-alt"></span></a>';
+            document.write(bibString);
+        }else{
+            //var bibString = '<span class="label label-default">' + (N-i).toString().padStart(2, '0') +  '</span> <a href="' + url + '" class="">' + title + '</a><br>' + author + ' (' + year +')' + '<br> <i>' + journal + '</i>, <b>' + volume + '</b>, ' + page + ', doi: <span  class="text-muted">' + doi + '</span>, <a href="'+pdffile+'" class="text-muted"><span class="glyphicon glyphicon-download-alt"></span></a>';
+            //var bibString = '<span class="label label-default">' + (N-i).toString().padStart(2, '0') +  '</span> <a href="' + url + '" class="">' + title + '</a><br>' + author + ' (' + year +')' + '<br> <i>' + journal + '</i> <span  class="text-muted">doi: ' + doi + '</span>, <a href="'+pdffile+'" class="text-muted"><span class="glyphicon glyphicon-download-alt"></span></a>';
+            var bibString = '<span class="label label-default">' + (N-i).toString().padStart(2, '0') +  '</span> <a href="' + url + '" class="">' + title + '</a><br><span  class="text-muted">' + author + '</span><br> <span  class="text-muted"><i>' + journal + ' </i> ' + year + '. doi: ' + doi + '</span> <a href="'+pdffile+'" class="text-muted"><span class="glyphicon glyphicon-download-alt"></span></a>';
+            document.write(bibString);
             if ('imageURL' in publications[i]){
-                document.write('&nbsp');
-            }else{
+                var imageURL = publications[i].imageURL;
+                var imageHTML = '<a href="' + url + '"><image class="img-rounded" src="' + imageURL + '" style="display: inline; height:200px; width:150px"></a>';
                 document.write('<br>');
+                document.write(imageHTML);
             }
-            document.write(figHTML);
-        }
+            if ('figURL' in publications[i]){
+                var figURL = publications[i].figURL;
+                var figHTML = '<a href="' + url + '"><image class="img-responsive img-rounded" src="' + figURL + '" style="display: inline;height:200px; min-width:160px;  max-width:50%"></a>';
+                if ('imageURL' in publications[i]){
+                    document.write('&nbsp');
+                }else{
+                    document.write('<br>');
+                }
+                document.write(figHTML);
+            }
+        }//else end
         var dibadge = '<span class="__dimensions_badge_embed__" data-doi="' + doi + '" data-hide-zero-citations="true" data-style="small_rectangle"></span>'
 		var ambadge = '<span data-badge-popover="right" data-badge-type="2" data-doi="' + doi + '" data-hide-no-mentions="true" class="altmetric-embed"></span>';
         document.write( dibadge + ambadge );
