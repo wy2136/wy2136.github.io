@@ -1,5 +1,18 @@
 [
     {
+    "author": "He H, BJ Soden, GA Vecchi, <span style='font-weight:bold'>W Yang</span>",
+    "year": "2025",
+    "title": "Stratospheric aerosol injection can weaken the carbon dioxide greenhouse effect",
+    "journal": "Communications Earth & Environment",
+    "volume": "6",
+    "page": "",
+    "doi": "10.1038/s43247-025-02466-z",
+    "pdffile": "./publications/He2025.pdf",
+    "imageURL": "https://upload.wikimedia.org/wikipedia/en/5/50/Communications_Earth_%26_Environment_%28Nature_Portfolio%29_journal_cover.png",
+    "figURL": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs43247-025-02466-z/MediaObjects/43247_2025_2466_Fig2_HTML.png",
+    "cite": "He2025"
+    },
+    {
     "author": "Chung MV, GA Vecchi, <span style='font-weight:bold'>W Yang</span>, BT Grenfell, CJE Metcalf",
     "year": "2025",
     "title": "Intersecting Memories of Immunity and Climate: Potential Multiyear Impacts of the El Niño–Southern Oscillation on Infectious Disease Spread",
@@ -8,8 +21,8 @@
     "page": "",
     "doi": "10.1029/2024GH001193",
     "pdffile": "./publications/Chung2025.pdf",
-    "imageURL": "https://agupubs.onlinelibrary.wiley.com/cms/asset/1fa03e76-19fb-4485-aac0-99d1796c7d00/gh2.v9.2.cover.jpg",
-    "figURL": "https://agupubs.onlinelibrary.wiley.com/cms/asset/3f131799-8092-47f9-ad8f-d4930d158f5e/gh2600-fig-0001-m.png",
+    "imageURL": "https://agupubs.onlinelibrary.wiley.com/cms/asset/720efb45-51b5-414e-9157-f678213b65bf/gh2.v9.2.cover.jpg",
+    "figURL": "https://agupubs.onlinelibrary.wiley.com/cms/asset/bde609b9-618f-4a92-b7e0-b8ce592bb83a/gh2600-fig-0001-m.png",
     "cite": "Chung2025"
     },
     {
@@ -399,7 +412,7 @@
     "doi": "10.1098/rsif.2020.0075",
     "pdffile": "./publications/Wagner_2020.pdf",
     "imageURL": "https://royalsocietypublishing.org/cms/asset/04aeac7b-d875-41e3-a77f-61a12d91bfff/rsif.2020.17.issue-167.cover.gif",
-    "figURL": "https://royalsocietypublishing.org/cms/asset/74f7c9f3-e1e9-4b42-b966-3e9452a8470a/rsif20200075f02.gif",
+    "figURL": "https://royalsocietypublishing.org/cms/asset/1ea56913-0590-4f6b-a702-6d17af05efec/rsif20200075f02.jpg",
     "cite": "Wagner2020"
     },
     {
@@ -554,7 +567,7 @@
     "page": "L05822",
     "doi": "10.1029/2006GL029077",
     "pdffile": "./publications/Yang_2007.pdf",
-    "imageURL": "https://agupubs.onlinelibrary.wiley.com/cms/asset/919fc38b-9068-4ef2-9acf-3b893d451455/grl.v52.3.cover.jpg",
+    "imageURL": "https://upload.wikimedia.org/wikipedia/en/3/36/Geophysical_Research_Letters.jpeg",
     "figURL": "https://agupubs.onlinelibrary.wiley.com/cms/asset/882816a9-b37c-43ef-a677-7eddb6e739b5/grl22823-fig-0002.png",
     "cite": "Yang2007"
     }

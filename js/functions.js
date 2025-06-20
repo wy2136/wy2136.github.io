@@ -217,13 +217,14 @@ function write_publications(ifile='./json/publications.json', simpleStyle=false)
             document.write(bibString);
             if ('imageURL' in publications[i]){
                 var imageURL = publications[i].imageURL;
-                var imageHTML = '<a href="' + url + '"><image class="img-rounded" src="' + imageURL + '" style="display: inline; height:200px; width:150px"></a>';
+                var imageHTML = '<image class="img-rounded" src="' + imageURL + '" style="display: inline; height:200px; width:150px">';
                 document.write('<br>');
                 document.write(imageHTML);
             }
             if ('figURL' in publications[i]){
                 var figURL = publications[i].figURL;
-                var figHTML = '<a href="' + url + '"><image class="img-responsive img-rounded" src="' + figURL + '" style="display: inline;height:200px; min-width:160px;  max-width:50%"></a>';
+                //var figHTML = '<a href="' + url + '"><image class="img-responsive img-rounded" src="' + figURL + '" style="display: inline;height:200px; min-width:160px;  max-width:50%"></a>';
+                var figHTML = '<image class="img-responsive img-rounded" src="' + figURL + '" style="display: inline;height:200px; min-width:160px;  max-width:50%">';
                 if ('imageURL' in publications[i]){
                     document.write('&nbsp');
                 }else{
