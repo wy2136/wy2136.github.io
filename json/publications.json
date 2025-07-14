@@ -1,6 +1,19 @@
 [
     {
-    "author": "Menemenlis S, GA Vecchi, <span style='font-weight:bold'>W Yang</span>, SP Raghuraman ",
+    "author": "Gabriel R, GA Vecchi, <span style='font-weight:bold'>W Yang</span> ",
+    "year": "2025",
+    "title": "Reducing Tropical Cyclone Activity in Global Climate Models by Evaporative Suppression",
+    "journal": "J. Geophys. Res. Atmos.",
+    "volume": "130",
+    "page": "19",
+    "doi": "10.1029/2024JD043302",
+    "pdffile": "./publications/Rios2025.pdf",
+    "imageURL": "https://agupubs.onlinelibrary.wiley.com/cms/asset/c8aab695-1f67-4a56-b3d9-34b334c06b0c/jgrd.v130.14.cover.jpg",
+    "figURL": "https://agupubs.onlinelibrary.wiley.com/cms/asset/d6ef1faa-f7fc-4961-9d85-35839f3074ab/jgrd60606-fig-0004-m.png",
+    "cite": "Rios2025"
+    },
+    {
+    "author": "Menemenlis S, GA Vecchi, <span style='font-weight:bold'>W Yang</span>, S Fueglistaler, SP Raghuraman",
     "year": "2025",
     "title": "Consequential differences in satellite-era sea surface temperature trends across datasets",
     "journal": "Nat. Clim. Chang.",
