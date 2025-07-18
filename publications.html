@@ -15,8 +15,8 @@
     <small> Wenchang Yang</small>
   </h3>
   <p class="text-center btn-broup">
-    <a class="btn btn-default" href="#bookChapter" role="button"><small>Book Chapter</small></a>
     <a class="btn btn-default" href="#peerReviewed" role="button"><small>Peer Reviewed</small></a>
+    <a class="btn btn-default" href="#bookChapter" role="button"><small>Book Chapter</small></a>
     <a class="btn btn-default" href="#nonPeerReviewed" role="button"><small>NonP Reviewed</small></a>
   </p>
 </div>  <!-- container-->
@@ -26,11 +26,11 @@
   <div class="row">
     <div class="col-md-1"></div>
     <div class="col-md-10">
-	  <a id="bookChapter"><h4 class="text-muted">Book Chapter</h4></a>
-      <script>write_publications('./json/publications_book_chapter.json')</script>
-	  <hr>
 	  <a id="peerReviewed"><h4 class="text-muted">Peer Reviewed</h4></a>
       <script>write_publications()</script>
+	  <hr>
+	  <a id="bookChapter"><h4 class="text-muted">Book Chapter</h4></a>
+      <script>write_publications('./json/publications_book_chapter.json')</script>
 	  <hr>
 	  <a id="nonPeerReviewed"><h4 class="text-muted">Non Peer Reviewed</h4></a>
 	  <script>write_publications('./json/publications_npr.json')</script>
