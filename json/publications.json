@@ -1,5 +1,17 @@
 [
     {
+    "author": "Eusebi R, GA Vecchi, <span style='font-weight:bold'>W Yang</span>, S Fueglistaler",
+    "year": "2025",
+    "title": "The Influence of Patterned Warming and CO2 on North Atlantic Hurricane Frequency",
+    "journal": "J. Climate",
+    "volume": " ",
+    "page": " ",
+    "doi": "10.1175/JCLI-D-24-0647.1",
+    "pdffile": "https://doi.org/10.1175/JCLI-D-24-0647.1",
+    "imageURL": "https://journals.ametsoc.org/coverimage?doc=%2Fjournals%2Fclim%2Faop%2Fissue.xml&width=200&type=webp",
+    "cite": "Eusebi2025"
+    },
+    {
     "author": "Gabriel R, GA Vecchi, <span style='font-weight:bold'>W Yang</span> ",
     "year": "2025",
     "title": "Reducing Tropical Cyclone Activity in Global Climate Models by Evaporative Suppression",
@@ -8,7 +20,7 @@
     "page": "19",
     "doi": "10.1029/2024JD043302",
     "pdffile": "./publications/Rios2025.pdf",
-    "imageURL": "https://agupubs.onlinelibrary.wiley.com/cms/asset/c8aab695-1f67-4a56-b3d9-34b334c06b0c/jgrd.v130.14.cover.jpg",
+    "imageURL": "https://agupubs.onlinelibrary.wiley.com/cms/asset/66397084-e02f-4fe5-87ac-54f9aafcd256/jgrd.v130.14.cover.jpg",
     "figURL": "https://agupubs.onlinelibrary.wiley.com/cms/asset/d6ef1faa-f7fc-4961-9d85-35839f3074ab/jgrd60606-fig-0004-m.png",
     "cite": "Rios2025"
     },
@@ -86,7 +98,7 @@
     "page": "1-9",
     "doi": "10.1073/pnas.2401801121",
     "pdffile": "./publications/Harding2024.pdf",
-    "imageURL": "https://www.pnas.org/cms/asset/483029fd-0824-423f-8f18-cd01bb2ec447/pnas.2024.121.issue-52.cover.gif",
+    "imageURL": "https://www.pnas.org/cms/asset/cd8117db-11b0-4d38-8756-2f174a1cd931/pnas.2024.121.issue-52.cover.gif",
     "figURL": "https://www.pnas.org/cms/10.1073/pnas.2401801121/asset/4bb794a2-b1b4-4d54-b3c1-5ae51271d8d8/assets/images/large/pnas.2401801121fig01.jpg",
     "cite": "Harding2024"
     },
