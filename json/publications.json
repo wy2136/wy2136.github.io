@@ -1,5 +1,18 @@
 [
     {
+    "author": "Kim H, G Villarini, <span style='font-weight:bold'>W Yang</span>, GA Vecchi",
+    "year": "2025",
+    "title": "Global response of floods to tropical explosive volcanic eruptions",
+    "journal": "Nat. Geosci.",
+    "volume": " ",
+    "page": "12",
+    "doi": "10.1038/s41561-025-01782-5",
+    "pdffile": "./publications/Kim2025.pdf",
+    "imageURL": "https://upload.wikimedia.org/wikipedia/en/7/74/Nature_Geoscience_cover.gif",
+    "figURL": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41561-025-01782-5/MediaObjects/41561_2025_1782_Fig1_HTML.png",
+    "cite": "Kim2025"
+    },
+    {
     "author": "Eusebi R, GA Vecchi, <span style='font-weight:bold'>W Yang</span>, S Fueglistaler",
     "year": "2025",
     "title": "The Influence of Patterned Warming and CO2 on North Atlantic Hurricane Frequency",
@@ -20,8 +33,8 @@
     "page": "19",
     "doi": "10.1029/2024JD043302",
     "pdffile": "./publications/Rios2025.pdf",
-    "imageURL": "https://agupubs.onlinelibrary.wiley.com/cms/asset/66397084-e02f-4fe5-87ac-54f9aafcd256/jgrd.v130.14.cover.jpg",
-    "figURL": "https://agupubs.onlinelibrary.wiley.com/cms/asset/d6ef1faa-f7fc-4961-9d85-35839f3074ab/jgrd60606-fig-0004-m.png",
+    "imageURL": "https://agupubs.onlinelibrary.wiley.com/cms/asset/57424fc9-1010-4dd3-a2f6-a140aab8f71e/jgrd.v130.14.cover.jpg",
+    "figURL": "https://agupubs.onlinelibrary.wiley.com/cms/asset/843dbced-9103-45be-965d-e587454bf202/jgrd60606-fig-0004-m.png",
     "cite": "Rios2025"
     },
     {
