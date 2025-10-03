@@ -1,5 +1,18 @@
 [
     {
+    "author": "Chung MV, <span style='font-weight:bold'>W Yang</span>, GA Vecchi",
+    "year": "2025",
+    "title": "Runaway Cooling From Large Solar Reductions Modulated by Ocean Overturning Circulation and Heat Uptake",
+    "journal": "Geophys. Res. Lett.",
+    "volume": "19",
+    "page": "11",
+    "doi": "10.1029/2025GL117821",
+    "pdffile": "./publications/Chung2025grl.pdf",
+    "imageURL": "https://agupubs.onlinelibrary.wiley.com/cms/asset/2bbd04ef-ba5a-427f-a95c-aa94743291fe/grl.v52.19.cover.jpg",
+    "figURL": "https://agupubs.onlinelibrary.wiley.com/cms/asset/d8ad375e-5beb-414a-aeeb-34ffc7107c7f/grl71303-fig-0003-m.png",
+    "cite": "Chung2025grl"
+    },
+    {
     "author": "Sullivan RM, E Wallace, S Dee, GA Vecchi, <span style='font-weight:bold'>W Yang</span>, K Emanuel",
     "year": "2025",
     "title": "Multi-centennial spatial coherency among Atlantic tropical cyclones from simulated and reconstructed storm records",
