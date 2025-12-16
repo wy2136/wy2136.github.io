@@ -1,5 +1,17 @@
 [
     {
+    "author": "Park SW, I Holmdahl, E Howerton, <span style='font-weight:bold'>W Yang</span>, RE Baker, GA Vecchi, S Cobey, CJE Metcalf, BT Grenfell",
+    "year": "2025",
+    "title": "Interplay between climate and childhood mixing can explain a sudden shift in RSV seasonality in Japan",
+    "journal": "Nat. Commun.",
+    "volume": " ",
+    "page": " ",
+    "doi": "10.1038/s41467-025-66184-y",
+    "pdffile": "https://www.nature.com/articles/s41467-025-66184-y",
+    "imageURL": "http://covers.springernature.com/journals/jpg_width_153_pixels/41467.jpg",
+    "cite": "Park2025"
+    },
+    {
     "author": "Kramer SM, KB Karnauskas, MT Elling, L Zhang, H Liu, Y Chen, DJ Amaya, L Nazarenko, <span style='font-weight:bold'>W Yang</span>, GA Vecchi, D Meegan-Kumar, JW Baldwin, D Samanta",
     "year": "2025",
     "title": "ColdBlobMIP: A multi-model assessment of the atmospheric response to the North Atlantic warming hole",
@@ -8,7 +20,7 @@
     "page": "10",
     "doi": "10.1029/2025GL117784",
     "pdffile": "./publications/Kramer2025.pdf",
-    "imageURL": "https://agupubs.onlinelibrary.wiley.com/cms/asset/2bbd04ef-ba5a-427f-a95c-aa94743291fe/grl.v52.19.cover.jpg",
+    "imageURL": "https://agupubs.onlinelibrary.wiley.com/cms/asset/0bbfa7fb-b475-4daa-8bb8-0d30721285f6/grl.v52.19.cover.jpg",
     "figURL": "https://agupubs.onlinelibrary.wiley.com/cms/asset/18227589-6420-419b-995f-a399aa49bfe5/grl71280-fig-0002-m.png",
     "cite": "Kramer2025"
     },
@@ -21,7 +33,7 @@
     "page": "11",
     "doi": "10.1029/2025GL117821",
     "pdffile": "./publications/Chung2025grl.pdf",
-    "imageURL": "https://agupubs.onlinelibrary.wiley.com/cms/asset/2bbd04ef-ba5a-427f-a95c-aa94743291fe/grl.v52.19.cover.jpg",
+    "imageURL": "https://agupubs.onlinelibrary.wiley.com/cms/asset/0bbfa7fb-b475-4daa-8bb8-0d30721285f6/grl.v52.19.cover.jpg",
     "figURL": "https://agupubs.onlinelibrary.wiley.com/cms/asset/d8ad375e-5beb-414a-aeeb-34ffc7107c7f/grl71303-fig-0003-m.png",
     "cite": "Chung2025grl"
     },
@@ -34,7 +46,7 @@
     "page": "11",
     "doi": "10.1029/2025GL116642",
     "pdffile": "./publications/Sullivan2025.pdf",
-    "imageURL": "https://agupubs.onlinelibrary.wiley.com/cms/asset/a7a4b215-cb9a-43e2-ba37-60cf449077a2/grl.v52.18.cover.jpg",
+    "imageURL": "https://agupubs.onlinelibrary.wiley.com/cms/asset/3184ea6d-d725-43ca-bca9-065c695eb596/grl.v52.18.cover.jpg",
     "figURL": "https://agupubs.onlinelibrary.wiley.com/cms/asset/f6be42ad-eadc-4f44-a157-762e9891e856/grl71209-fig-0002-m.png",
     "cite": "Sullivan2025"
     },
