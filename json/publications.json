@@ -1,5 +1,17 @@
 [
     {
+    "author": "Ben Clarke  et al. and Friederike.E.L. Otto",
+    "year": "2026",
+    "title": "Climate change and El Niño behind extreme precipitation leading to major floods in southern Brazil in 2024",
+    "journal": "npj Natural Hazards",
+    "volume": "3",
+    "page": "20",
+    "doi": "10.1038/s44304-025-00162-8",
+    "pdffile": "https://doi.org/10.1038/s44304-025-00162-8",
+    "figURL": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs44304-025-00162-8/MediaObjects/44304_2025_162_Fig1_HTML.png",
+    "cite": "Clarke2026"
+    },
+    {
     "author": "Park SW, I Holmdahl, E Howerton, <span style='font-weight:bold'>W Yang</span>, RE Baker, GA Vecchi, S Cobey, CJE Metcalf, BT Grenfell",
     "year": "2025",
     "title": "Interplay between climate and childhood mixing can explain a sudden shift in RSV seasonality in Japan",
@@ -9,6 +21,7 @@
     "doi": "10.1038/s41467-025-66184-y",
     "pdffile": "https://www.nature.com/articles/s41467-025-66184-y",
     "imageURL": "http://covers.springernature.com/journals/jpg_width_153_pixels/41467.jpg",
+    "figURL": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41467-025-66184-y/MediaObjects/41467_2025_66184_Fig1_HTML.png",
     "cite": "Park2025"
     },
     {
@@ -21,7 +34,7 @@
     "doi": "10.1029/2025GL117784",
     "pdffile": "./publications/Kramer2025.pdf",
     "imageURL": "https://agupubs.onlinelibrary.wiley.com/cms/asset/0bbfa7fb-b475-4daa-8bb8-0d30721285f6/grl.v52.19.cover.jpg",
-    "figURL": "https://agupubs.onlinelibrary.wiley.com/cms/asset/18227589-6420-419b-995f-a399aa49bfe5/grl71280-fig-0002-m.png",
+    "figURL": "https://agupubs.onlinelibrary.wiley.com/cms/asset/e6ab6d3b-db29-4544-9a59-8116ee58a1c7/grl71280-fig-0002-m.png",
     "cite": "Kramer2025"
     },
     {
