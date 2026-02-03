@@ -1,5 +1,18 @@
 [
     {
+    "author": "Meng Z, GJ Hakim,  <span style='font-weight:bold'>W Yang</span>, GA Vecchi",
+    "year": "2026",
+    "title": "Deep learning atmospheric models reliably simulate out-of-sample land heat and cold wave frequencies",
+    "journal": "Geophys. Res. Lett.",
+    "volume": "53",
+    "page": "12",
+    "doi": "10.1029/2025GL117990",
+    "pdffile": "./publications/Meng2026grl.pdf",
+    "imageURL": "./img/publications/grl_2026-02-16.jpeg",
+    "figURL": "./img/publications/Meng2026grl_fig01.png",
+    "cite": "Meng2026grl"
+    },
+    {
     "author": "Ben Clarke  et al. and Friederike.E.L. Otto",
     "year": "2026",
     "title": "Climate change and El Niño behind extreme precipitation leading to major floods in southern Brazil in 2024",
@@ -33,8 +46,8 @@
     "page": "10",
     "doi": "10.1029/2025GL117784",
     "pdffile": "./publications/Kramer2025.pdf",
-    "imageURL": "https://agupubs.onlinelibrary.wiley.com/cms/asset/0bbfa7fb-b475-4daa-8bb8-0d30721285f6/grl.v52.19.cover.jpg",
-    "figURL": "https://agupubs.onlinelibrary.wiley.com/cms/asset/e6ab6d3b-db29-4544-9a59-8116ee58a1c7/grl71280-fig-0002-m.png",
+    "imageURL": "img/publications/grl_2025-10-16.jpg",
+    "figURL": "img/publications/Kramer2025_fig01.webp",
     "cite": "Kramer2025"
     },
     {
@@ -46,8 +59,8 @@
     "page": "11",
     "doi": "10.1029/2025GL117821",
     "pdffile": "./publications/Chung2025grl.pdf",
-    "imageURL": "https://agupubs.onlinelibrary.wiley.com/cms/asset/0bbfa7fb-b475-4daa-8bb8-0d30721285f6/grl.v52.19.cover.jpg",
-    "figURL": "https://agupubs.onlinelibrary.wiley.com/cms/asset/d8ad375e-5beb-414a-aeeb-34ffc7107c7f/grl71303-fig-0003-m.png",
+    "imageURL": "img/publications/grl_2025-10-16.jpg",
+    "figURL": "img/publications/Chung2025grl_fig05.png",
     "cite": "Chung2025grl"
     },
     {
@@ -59,8 +72,8 @@
     "page": "11",
     "doi": "10.1029/2025GL116642",
     "pdffile": "./publications/Sullivan2025.pdf",
-    "imageURL": "https://agupubs.onlinelibrary.wiley.com/cms/asset/3184ea6d-d725-43ca-bca9-065c695eb596/grl.v52.18.cover.jpg",
-    "figURL": "https://agupubs.onlinelibrary.wiley.com/cms/asset/f6be42ad-eadc-4f44-a157-762e9891e856/grl71209-fig-0002-m.png",
+    "imageURL": "img/publications/grl_2025-09-28.jpg",
+    "figURL": "img/publications/Sullivan2025_fig01.webp",
     "cite": "Sullivan2025"
     },
     {
@@ -98,8 +111,8 @@
     "page": "19",
     "doi": "10.1029/2024JD043302",
     "pdffile": "./publications/Rios2025.pdf",
-    "imageURL": "https://agupubs.onlinelibrary.wiley.com/cms/asset/57424fc9-1010-4dd3-a2f6-a140aab8f71e/jgrd.v130.14.cover.jpg",
-    "figURL": "https://agupubs.onlinelibrary.wiley.com/cms/asset/843dbced-9103-45be-965d-e587454bf202/jgrd60606-fig-0004-m.png",
+    "imageURL": "img/publications/jgra_2025-07-28.jpg",
+    "figURL": "img/publications/Rios2025_fig01.jpg",
     "cite": "Rios2025"
     },
     {
@@ -384,8 +397,8 @@
     "page": "10",
     "doi": "10.1029/2021GL097157",
     "pdffile": "./publications/Hsieh2022.pdf",
-    "imageURL": "https://agupubs.onlinelibrary.wiley.com/cms/asset/e66d4d84-f588-405d-925c-adbaadada4b9/grl.v49.7.cover.jpg",
-    "figURL": "https://agupubs.onlinelibrary.wiley.com/cms/asset/c0f21a1e-9cc9-45eb-aa53-252cd38ca1a1/grl63982-fig-0001-m.png",
+    "imageURL": "img/publications/grl_2022-04-16.jpg",
+    "figURL": "img/publications/Hsieh2022_fig01.png",
     "cite": "Hsieh2022"
     },
     {
@@ -475,8 +488,8 @@
     "page": "",
     "doi": "10.1029/2020GL091024",
     "pdffile": "./publications/Wang2021.pdf",
-    "imageURL": "https://agupubs.onlinelibrary.wiley.com/cms/asset/0390114f-f56d-4522-afb4-37a23006c5ee/grl.v48.4.cover.jpg",
-    "figURL": "https://agupubs.onlinelibrary.wiley.com/cms/asset/72254105-2ff4-4403-ae2b-7d0a675b20bf/grl61923-fig-0002-m.png",
+    "imageURL": "img/publications/grl_2021-02-28.jpg",
+    "figURL": "img/publications/Wang2021_fig02.webp",
     "cite": "Wang2021"
     },
     {
@@ -528,7 +541,7 @@
     "doi": "10.1098/rsif.2020.0075",
     "pdffile": "./publications/Wagner_2020.pdf",
     "imageURL": "https://royalsocietypublishing.org/cms/asset/04aeac7b-d875-41e3-a77f-61a12d91bfff/rsif.2020.17.issue-167.cover.gif",
-    "figURL": "https://royalsocietypublishing.org/cms/asset/1ea56913-0590-4f6b-a702-6d17af05efec/rsif20200075f02.jpg",
+    "figURL": "img/publications/Wagner2020_fig02.png",
     "cite": "Wagner2020"
     },
     {
@@ -566,8 +579,8 @@
     "page": "1-10",
     "doi": "10.1029/2019GL082367",
     "pdffile": "./publications/Yang_2019.pdf",
-    "imageURL": "https://agupubs.onlinelibrary.wiley.com/cms/asset/45dd0270-6df6-4c31-b40e-9b6f46bc16fd/grl.v46.13.cover.jpg",
-    "figURL": "https://agupubs.onlinelibrary.wiley.com/cms/asset/1296e13d-5e9e-45d4-b6bd-a22b33f39337/grl59210-fig-0003-m.png",
+    "imageURL": "img/publications/grl_2019-07-16.jpg",
+    "figURL": "img/publications/Yang2019_fig03.webp",
     "cite": "Yang2019"
     },
     {
@@ -592,8 +605,8 @@
     "page": "5316–5329",
     "doi": "10.1002/2016JD026324",
     "pdffile": "./publications/Yang_2017.pdf",
-    "imageURL": "https://agupubs.onlinelibrary.wiley.com/cms/asset/0adae133-7d17-4526-9eef-14b69ebe733b/jgrd.v122.10.cover.jpg",
-    "figURL": "https://agupubs.onlinelibrary.wiley.com/cms/asset/e4e6fe9d-a0a9-4258-b753-d7674eef18e0/jgrd53831-fig-0005-m.png",
+    "imageURL": "img/publications/jgra_2017-05-27.jpg",
+    "figURL": "img/publications/Yang2017_fig05.webp",
     "cite": "Yang2017"
     },
     {
@@ -684,7 +697,7 @@
     "doi": "10.1029/2006GL029077",
     "pdffile": "./publications/Yang_2007.pdf",
     "imageURL": "https://upload.wikimedia.org/wikipedia/en/3/36/Geophysical_Research_Letters.jpeg",
-    "figURL": "https://agupubs.onlinelibrary.wiley.com/cms/asset/882816a9-b37c-43ef-a677-7eddb6e739b5/grl22823-fig-0002.png",
+    "figURL": "img/publications/Yang2007_fig02.webp",
     "cite": "Yang2007"
     }
 ]
