@@ -150,8 +150,8 @@
     "page": "",
     "doi": "10.1029/2024GH001193",
     "pdffile": "./publications/Chung2025.pdf",
-    "imageURL": "https://agupubs.onlinelibrary.wiley.com/cms/asset/720efb45-51b5-414e-9157-f678213b65bf/gh2.v9.2.cover.jpg",
-    "figURL": "https://agupubs.onlinelibrary.wiley.com/cms/asset/bde609b9-618f-4a92-b7e0-b8ce592bb83a/gh2600-fig-0001-m.png",
+    "imageURL": "img/publications/geoHealth_2025-02.jpg",
+    "figURL": "img/publications/Chung2025_fig01.png",
     "cite": "Chung2025"
     },
     {
@@ -215,8 +215,8 @@
     "page": "eadi2779",
     "doi": "10.1126/sciadv.adi2779",
     "pdffile": "./publications/Hsieh2024.pdf",
-    "imageURL": "https://www.science.org/cms/asset/affa5f5a-070e-4a2b-a569-0443d086745a/sciadv.2024.10.issue-37.largecover.jpg",
-    "figURL": "https://www.science.org/cms/10.1126/sciadv.adi2779/asset/0b37df4f-cf3e-4ee2-9bcd-a520b4712934/assets/images/large/sciadv.adi2779-f4.jpg",
+    "imageURL": "img/publications/sciadv_2024-09-13.jpg",
+    "figURL": "img/publications/Hsieh2024_fig04.jpg",
     "cite": "Hsieh2024"
     },
     {
@@ -436,8 +436,8 @@
     "page": "e2021MS002675",
     "doi": "10.1029/2021MS002675",
     "pdffile": "./publications/Zhang2021b.pdf",
-    "imageURL": "https://agupubs.onlinelibrary.wiley.com/cms/asset/8c212af1-e145-4aa8-a9b9-b488db3e20e5/jame.v13.11.cover.jpg",
-    "figURL": "https://agupubs.onlinelibrary.wiley.com/cms/asset/c34e0739-e28b-4374-aa53-8c6754f9ea2d/jame21445-fig-0003-m.png",
+    "imageURL": "img/publications/james_2021-11.jpg",
+    "figURL": "img/publications/Zhang2021b_fig03.png",
     "cite": "Zhang2021b"
     },
     {
@@ -449,8 +449,8 @@
     "page": "1–8",
     "doi": "10.1126/sciadv.abg6931",
     "pdffile": "./publications/Chan2021.pdf",
-    "imageURL": "https://www.science.org/cms/asset/e4ae5dd0-68cb-4422-8075-154a9e1a45df/sciadv.2021.7.issue-26.largecover.jpg",
-    "figURL": "https://www.science.org/cms/10.1126/sciadv.abg6931/asset/56ea11e8-e5d0-46ec-bbfb-c5c0051e1ed9/assets/graphic/abg6931-f1.jpeg",
+    "imageURL": "img/publications/sciadv_2021-06-25.jpg",
+    "figURL": "img/publications/Chan2021_fig01.jpeg",
     "cite": "Chan2021"
     },
     {
@@ -540,7 +540,7 @@
     "page": "15",
     "doi": "10.1098/rsif.2020.0075",
     "pdffile": "./publications/Wagner_2020.pdf",
-    "imageURL": "https://royalsocietypublishing.org/cms/asset/04aeac7b-d875-41e3-a77f-61a12d91bfff/rsif.2020.17.issue-167.cover.gif",
+    "imageURL": "img/publications/interface_2020-06-01.gif",
     "figURL": "img/publications/Wagner2020_fig02.png",
     "cite": "Wagner2020"
     },
@@ -553,8 +553,8 @@
     "page": "315-319",
     "doi": "10.1126/science.abc2535",
     "pdffile": "./publications/Baker_2020.pdf",
-    "imageURL": "https://www.science.org/cms/asset/732faea6-6b7b-450a-9f94-f98d095739b8/science.2020.369.issue-6501.largecover.jpg",
-    "figURL": "https://www.science.org/cms/10.1126/science.abc2535/asset/f3e0feef-34d5-461b-9737-b27c925b078b/assets/graphic/369_315_f2.jpeg",
+    "imageURL": "img/publications/science_2020-07-17.jpg",
+    "figURL": "img/publications/Baker2020_fig02.jpeg",
     "cite": "Baker2020"
     },
     {
@@ -683,8 +683,8 @@
     "page": "153–159",
     "doi": "10.1002/asl.186",
     "pdffile": "./publications/Nie_2008.pdf",
-    "imageURL": "https://rmets.onlinelibrary.wiley.com/cms/asset/5261ccc4-5476-4f26-847a-37404b99d536/asl2.v24.7.cover.jpg",
-    "figURL": "https://rmets.onlinelibrary.wiley.com/cms/asset/9485155f-8c34-4eb0-90ce-cc8bb10ff87c/mfig002.jpg",
+    "imageURL": "img/publications/asl_2008-07.webp",
+    "figURL": "img/publications/Nie2008_fig02.jpg",
     "cite": "Nie2008"
     },
     {
