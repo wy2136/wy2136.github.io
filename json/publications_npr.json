@@ -1,5 +1,49 @@
 [
     {
+    "author": "Chien MT, W Yang, ED Maloney, GA Vecchi,  E Barnes",
+    "year": "2026",
+    "title": "Deep-learning climate emulator ACE2 reveals a global decrease in tropical cyclone 5 frequency in the 15th Century under an El Niño-like sea surface temperature pattern",
+    "journal": "Earth ArXive, ",
+    "volume": " ", 
+    "page": " ",
+    "doi": "10.31223/X5445X",
+    "pdffile": "https://doi.org/10.31223/X5445X",
+    "cite": "Chien2026preprint"
+    },
+    {
+    "author": "Levin EL, MT Chien, E Barnes, H He, GA Vecchi, W Yang",
+    "year": "2026",
+    "title": "On the seasonal predictability of the 2020 North Atlantic tropical cyclone season",
+    "journal": "Earth ArXive, ",
+    "volume": " ", 
+    "page": " ",
+    "doi": "10.31223/X5CN1R",
+    "pdffile": "https://doi.org/10.31223/X5CN1R",
+    "cite": "Levin2026preprint"
+    },
+    {
+    "author": "Meng Z, GJ Hakim, W Yang, GA Vecchi",
+    "year": "2026",
+    "title": "Large-Ensemble Simulations Reveal Links Between Atmospheric Blocking Frequency and Sea Surface Temperature Variability",
+    "journal": "arXiv, ",
+    "volume": " ", 
+    "page": " ",
+    "doi": "10.48550/arXiv.2602.05083",
+    "pdffile": "https://arxiv.org/pdf/2602.05083",
+    "cite": "Meng2026arXiv"
+    },
+    {
+    "author": "Levin EL, GA Vecchi, W Yang",
+    "year": "2025",
+    "title": "Influence of sea surface temperature patterns and mean warming on past and future Atlantic hurricane activity",
+    "journal": "Earth ArXive, ",
+    "volume": " ", 
+    "page": " ",
+    "doi": "10.31223/X5FX8S",
+    "pdffile": "https://doi.org/10.31223/X5FX8S",
+    "cite": "Levin2025preprint"
+    },
+    {
     "author": "Ben Clarke et al.",
     "year": "2025",
     "title": "Climate change enhanced intensity of Hurricane Melissa, testing limits of adaptation in Jamaica and eastern Cuba",
