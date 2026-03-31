@@ -1,5 +1,29 @@
 [
     {
+    "author": "Deng Z, G Vilarini, <span style='font-weight:bold'>W Yang</span>, GA Vecchi, Z Wang",
+    "year": "2026",
+    "title": "Global stalled tropical cyclones in a changing climate",
+    "journal": "Nat. Commun.",
+    "volume": " ",
+    "page": " ",
+    "doi": "10.1038/s41467-026-71320-3",
+    "pdffile": "https://www.nature.com/articles/s41467-026-71320-3",
+    "imageURL": "http://covers.springernature.com/journals/jpg_width_153_pixels/41467.jpg",
+    "cite": "Deng2026"
+    },
+    {
+    "author": "Levin EL, GA Vecchi, <span style='font-weight:bold'>W Yang</span>",
+    "year": "2026",
+    "title": "Influence of sea surface temperature patterns and mean warming on past and future Atlantic tropical cyclone activity",
+    "journal": "J. Climate",
+    "volume": " ",
+    "page": " ",
+    "doi": "10.1175/JCLI-D-25-0635.1",
+    "pdffile": "https://doi.org/10.1175/JCLI-D-25-0635.1",
+    "imageURL": "https://journals.ametsoc.org/coverimage?doc=%2Fjournals%2Fclim%2Faop%2Fissue.xml&width=200&type=webp",
+    "cite": "Levin2026"
+    },
+    {
     "author": "Rasambainarivo FT, IG Nilsson, DE Cheeks, <span style='font-weight:bold'>W Yang</span>, CJE Metcalf",
     "year": "2026",
     "title": "Evaluating how demography and temperature increase might alter the burden of congenital Toxoplasmosis in Africa",
@@ -8,6 +32,8 @@
     "page": "3",
     "doi": "10.1371/journal.pntd.0014058",
     "pdffile": "https://doi.org/10.1371/journal.pntd.0014058",
+    "imageURL": "https://journals.plos.org/plosntds/article/figure/image?size=medium&id=10.1371/journal.pntd.0005479.g001",
+    "figURL": "https://journals.plos.org/plosntds/article/figure/image?size=large&id=10.1371/journal.pntd.0014058.g001",
     "cite": "Rasambainarivo2026"
     },
     {
