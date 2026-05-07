@@ -1,5 +1,17 @@
 [
     {
+    "author": "Hari V, W Zhang, R Dutta, O Rakovec, A Koppa, S Gao, <span style='font-weight:bold'>W Yang</span>, GA Vecchi, R Kumar",
+    "year": "2026",
+    "title": "The role of the North Pacific meridional mode on improved predictability of Central European summer rainfall",
+    "journal": "Environmental Research Climate",
+    "volume": " ",
+    "page": " ",
+    "doi": "10.1088/2752-5295/ae679b",
+    "pdffile": "https://iopscience.iop.org/article/10.1088/2752-5295/ae679b",
+    "imageURL": "https://publishingsupport.iopscience.iop.org/wp-content/uploads/2021/10/Env-Research-climate.jpg",
+    "cite": "Hari2026"
+    },
+    {
     "author": "Deng Z, G Villarini, <span style='font-weight:bold'>W Yang</span>, GA Vecchi, Z Wang",
     "year": "2026",
     "title": "Global stalled tropical cyclones in a changing climate",
@@ -21,6 +33,7 @@
     "doi": "10.1175/JCLI-D-25-0635.1",
     "pdffile": "https://doi.org/10.1175/JCLI-D-25-0635.1",
     "imageURL": "https://journals.ametsoc.org/coverimage?doc=%2Fjournals%2Fclim%2Faop%2Fissue.xml&width=200&type=webp",
+    "figURL": "img/publications/Levin2026_fig01.jpg",
     "cite": "Levin2026"
     },
     {
