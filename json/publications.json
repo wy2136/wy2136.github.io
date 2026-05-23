@@ -1,5 +1,18 @@
 [
     {
+    "author": "Rios G, GA Vecchi, <span style='font-weight:bold'>W Yang</span> ",
+    "year": "2026",
+    "title": "On the large-scale radiative cooling induced by tropical cyclone activity",
+    "journal": "Proc. Natl. Acad. Sci.",
+    "volume": "123",
+    "page": "9",
+    "doi": "10.1073/pnas.2526160123",
+    "pdffile": "./publications/Rios2026.pdf",
+    "imageURL": "https://www.pnas.org/cms/asset/433b8ee2-291a-4032-a821-9a689e8fcaa8/default_cover.png",
+    "figURL": "img/publications/Rios2026_fig02.jpg",
+    "cite": "Rios2026"
+    },
+    {
     "author": "Baker RE, AR Stamper, HA Burrows, OG Spacey, MV Chung, BL Rice, <span style='font-weight:bold'>W Yang</span>, CE Wagner, CJE Metcalf ",
     "year": "2026",
     "title": "Climate change and infectious diseases",
@@ -45,7 +58,7 @@
     "page": " ",
     "doi": "10.1175/JCLI-D-25-0635.1",
     "pdffile": "https://doi.org/10.1175/JCLI-D-25-0635.1",
-    "imageURL": "https://journals.ametsoc.org/coverimage?doc=%2Fjournals%2Fclim%2Faop%2Fissue.xml&width=200&type=webp",
+    "imageURL": "img/publications/JC.jpeg",
     "figURL": "img/publications/Levin2026_fig01.jpg",
     "cite": "Levin2026"
     },
@@ -160,13 +173,13 @@
     "volume": " ",
     "page": " ",
     "doi": "10.1175/JCLI-D-24-0647.1",
-    "pdffile": "https://doi.org/10.1175/JCLI-D-24-0647.1",
-    "imageURL": "https://journals.ametsoc.org/coverimage?doc=%2Fjournals%2Fclim%2Faop%2Fissue.xml&width=200&type=webp",
+    "pdffile": "hgttps://doi.org/10.1175/JCLI-D-24-0647.1",
+    "imageURL": "img/publications/JC.jpeg",
     "figURL": "https://journals.ametsoc.org/view/journals/clim/38/19/inline-JCLI-D-24-0647.1-f3.jpg",
     "cite": "Eusebi2025"
     },
     {
-    "author": "Gabriel R, GA Vecchi, <span style='font-weight:bold'>W Yang</span> ",
+    "author": "Rios G, GA Vecchi, <span style='font-weight:bold'>W Yang</span> ",
     "year": "2025",
     "title": "Reducing Tropical Cyclone Activity in Global Climate Models by Evaporative Suppression",
     "journal": "J. Geophys. Res. Atmos.",
@@ -239,7 +252,7 @@
     "page": "663–674",
     "doi": "10.1175/JCLI-D-23-0528.1",
     "pdffile": "./publications/Wang2025.pdf",
-    "imageURL": "https://journals.ametsoc.org/coverimage?doc=%2Fjournals%2Fclim%2Faop%2Fissue.xml&width=200&type=webp",
+    "imageURL": "img/publications/JC.jpeg",
     "figURL": "https://journals.ametsoc.org/view/journals/clim/38/3/full-JCLI-D-23-0528.1-f1.jpg",
     "cite": "Wang2025"
     },
@@ -330,7 +343,7 @@
     "page": "1501–1522",
     "doi": "10.1175/JCLI-D-23-0088.1",
     "pdffile": "http://dx.doi.org/10.1175/JCLI-D-23-0088.1",
-    "imageURL": "https://journals.ametsoc.org/coverimage?doc=%2Fjournals%2Fclim%2Faop%2Fissue.xml&width=200&type=webp",
+    "imageURL": "img/publications/JC.jpeg",
     "figURL": "https://journals.ametsoc.org/view/journals/clim/37/5/inline-JCLI-D-23-0088.1-f3.jpg",
     "cite": "Kortum2024"
     },
@@ -395,7 +408,7 @@
     "page": "1-24",
     "doi": "10.1175/JCLI-D-22-0449.1",
     "pdffile": "./publications/Hsieh2023.pdf",
-    "imageURL": "https://journals.ametsoc.org/coverimage?doc=%2Fjournals%2Fclim%2F36%2F16%2Fclim.36.issue-16.xml&width=200&type=webp",
+    "imageURL": "img/publications/JC.jpeg",
     "figURL": "https://journals.ametsoc.org/view/journals/clim/36/16/inline-JCLI-D-22-0449.1-f1.jpg",
     "cite": "Hsieh2023"
     },
@@ -525,7 +538,7 @@
     "page": "2079–2091",
     "doi": "10.1175/JCLI-D-20-0574.1",
     "pdffile": "./publications/Zhang2021.pdf",
-    "imageURL": "https://journals.ametsoc.org/coverimage?doc=%2Fjournals%2Fclim%2F34%2F6%2Fclim.34.issue-6.xml&width=200&type=webp",
+    "imageURL": "img/publications/JC.jpeg",
     "figURL": "https://journals.ametsoc.org/view/journals/clim/34/6/inline-JCLI-D-20-0574.1-f3.jpg",
     "cite": "Zhang2021"
     },
@@ -681,7 +694,7 @@
     "page": "8013–8025",
     "doi": "10.1175/JCLI-D-16-0395.1",
     "pdffile": "./publications/Yang_2016.pdf",
-    "imageURL": "https://journals.ametsoc.org/coverimage?doc=%2Fjournals%2Fclim%2F29%2F22%2Fclim.29.issue-22.xml&width=200&type=webp",
+    "imageURL": "img/publications/JC.jpeg",
     "figURL": "https://journals.ametsoc.org/view/journals/clim/29/22/inline-jcli-d-16-0395.1-f3.jpg",
     "cite": "Yang2016"
     },
@@ -694,7 +707,7 @@
     "page": " 9789-9802",
     "doi": "10.1175/JCLI-D-15-0323.1",
     "pdffile": "./publications/Yang_2015_bias.pdf",
-    "imageURL": "https://journals.ametsoc.org/coverimage?doc=%2Fjournals%2Fclim%2F28%2F24%2Fclim.28.issue-24.xml&width=200&type=webp",
+    "imageURL": "img/publications/JC.jpeg",
     "figURL": "https://journals.ametsoc.org/view/journals/clim/28/24/inline-jcli-d-15-0323.1-f1.jpg",
     "cite": "Yang2015b"
     },
@@ -707,7 +720,7 @@
     "page": "2385-2404",
     "doi": "10.1175/JCLI-D-14-00484.1",
     "pdffile": "./publications/Yang_2015.pdf",
-    "imageURL": "https://journals.ametsoc.org/coverimage?doc=%2Fjournals%2Fclim%2F28%2F6%2Fclim.28.issue-6.xml&width=200&type=webp",
+    "imageURL": "img/publications/JC.jpeg",
     "figURL": "https://journals.ametsoc.org/view/journals/clim/28/6/inline-jcli-d-14-00484.1-f5.jpg",
     "cite": "Yang2015a"
     },
@@ -720,7 +733,7 @@
     "page": "7185–7202",
     "doi": "10.1175/JCLI-D-13-00447.1",
     "pdffile": "./publications/Yang_2014.pdf",
-    "imageURL": "https://journals.ametsoc.org/coverimage?doc=%2Fjournals%2Fclim%2F27%2F19%2Fclim.27.issue-19.xml&width=200&type=webp",
+    "imageURL": "img/publications/JC.jpeg",
     "figURL": "https://journals.ametsoc.org/view/journals/clim/27/19/inline-jcli-d-13-00447.1-f2.jpg",
     "cite": "Yang2014"
     },
@@ -733,7 +746,7 @@
     "page": "583–599",
     "doi": "10.1175/JAS-D-12-0140.1",
     "pdffile": "./publications/Yang_2013.pdf",
-    "imageURL": "https://journals.ametsoc.org/coverimage?doc=%2Fjournals%2Fatsc%2F70%2F2%2Fatsc.70.issue-2.xml&width=200&type=webp",
+    "imageURL": "img/publications/JAS.webp",
     "figURL": "https://journals.ametsoc.org/view/journals/atsc/70/2/inline-jas-d-12-0140.1-f11.jpg",
     "cite": "Yang2013"
     },
