@@ -9,7 +9,20 @@
     "doi": "10.1175/JCLI-D-25-0570.1",
     "pdffile": "https://doi.org/10.1175/JCLI-D-25-0570.1",
     "imageURL": "img/publications/JC.jpeg",
+    "figURL": "img/publications/Zhang2026_fig05.jpg",
     "cite": "Zhang2026"
+    },
+    {
+    "author": "Chien M, <span style='font-weight:bold'>W Yang</span>, ED Maloney, GA Vecchi, EA Barnes",
+    "year": "2026",
+    "title": "Deep-learning climate emulator ACE2 reveals a global decrease in 15th-century tropical cyclone frequency under El Niño-like sea surface temperatures",
+    "journal": "npj Climate and Atmospheric Science",
+    "volume": " ",
+    "page": " ",
+    "doi": "10.1038/s41612-026-01562-x",
+    "pdffile": "https://doi.org/10.1038/s41612-026-01562-x",
+    "imageURL": "img/publications/journal_npjClimAtmos.jpg",
+    "cite": "Chien2026"
     },
     {
     "author": "Levin EL, M Chien, EA Barnes, H He, GA Vecchi, <span style='font-weight:bold'>W Yang</span>",
@@ -21,7 +34,21 @@
     "doi": "10.1175/MWR-D-26-0045.1",
     "pdffile": "https://doi.org/10.1175/MWR-D-26-0045.1",
     "imageURL": "img/publications/journal_MWR.webp",
+    "figURL": "img/publications/Levin2026_fig03.jpg",
     "cite": "Levin2026b"
+    },
+    {
+    "author": "Wallace E, S Dee, A Bierbower, X Luo, R Sullivan, <span style='font-weight:bold'>W Yang</span>, GA Vecchi, K Emanuel",
+    "year": "2026",
+    "title": "Different Last Millennium El Niño Southern Oscillation Sea Surface Temperature Patterns Drive Disparate North Atlantic Tropical Cyclone Characteristics",
+    "journal": "J. Geophys. Res. Atmos.",
+    "volume": "131",
+    "page": " ",
+    "doi": "10.1029/2026JD046686",
+    "pdffile": "https://doi.org/10.1029/2026JD046686",
+    "imageURL": "img/publications/journal_jgra_2026-09-28.jpg",
+    "figURL": "img/publications/Wallace2026_fig01.png",
+    "cite": "Wallace2026"
     },
     {
     "author": "Liao E, S Liang, F Wang, <span style='font-weight:bold'>W Yang</span>, J Zhang, W Lu, YH Jo, Y Du, GA MacGilchrist",
@@ -148,6 +175,7 @@
     "page": "20",
     "doi": "10.1038/s44304-025-00162-8",
     "pdffile": "https://doi.org/10.1038/s44304-025-00162-8",
+    "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZNpXKk1THpYWxbRGygi6eWLlBLFlFPRMzs8V-jAQC-zKPRdIiDs66wLE",
     "figURL": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs44304-025-00162-8/MediaObjects/44304_2025_162_Fig1_HTML.png",
     "cite": "Clarke2026"
     },
