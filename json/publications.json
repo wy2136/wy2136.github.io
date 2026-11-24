@@ -1,5 +1,18 @@
 [
     {
+    "author": "Frucht S, SJ Camargo, H Murakami, CY Lee, T Matthews, GA Vecchi, <span style='font-weight:bold'>W Yang</span>, JW Baldwin",
+    "year": "2026",
+    "title": "Quantifying Historical Tropical Cyclone-Heat Compound Events Using Global Climate Models",
+    "journal": "J. Geophys. Res. Atmos.",
+    "volume": "131",
+    "page": " ",
+    "doi": "10.1029/2026JD047940",
+    "pdffile": "https://doi.org/10.1029/2026JD047940",
+    "imageURL": "img/publications/journal_jgra_2026-09-28.jpg",
+    "figURL": "img/publications/Frucht2026_fig01.png",
+    "cite": "Frucht2026"
+    },
+    {
     "author": "Zhang B, BJ Soden, GA Vecchi, <span style='font-weight:bold'>W Yang</span>",
     "year": "2026",
     "title": "Enhanced Efficacy Contributes to Tropical Cyclone Intensification in Warmer Climates via Stronger Storm-Scale Radiative Feedbacks",
@@ -60,6 +73,7 @@
     "doi": "10.1038/s43247-026-03841-0",
     "pdffile": "https://www.nature.com/articles/s43247-026-03841-0",
     "imageURL": "https://upload.wikimedia.org/wikipedia/en/5/50/Communications_Earth_%26_Environment_%28Nature_Portfolio%29_journal_cover.png",
+    "figURL": "img/publications/Liao2026_fig01.webp",
     "cite": "Liao2026"
     },
     {
